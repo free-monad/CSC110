@@ -28,7 +28,7 @@
 				<li> Deploying Applications </li>
 				<li> Language Parsing </li>
 				<li> Tracing Programs </li>
-				<li> Making Code Documentation </li>
+				<li> Making Code Documentation with Markdown and Javadocs </li>
 				<li> Reading User Input </li>
 				<li> Following a Design Spec </li>
 			</ol>
