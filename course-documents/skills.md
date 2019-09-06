@@ -4,7 +4,8 @@
 	<body>
 		<h1>Skills to Master</h1>
 
-		<ol>
+		<div>
+			<ol>
 			<li> Using git and GitHub </li>
 			<li> Compiling Java Projects </li>
 			<li>  Using an IDE </li>
@@ -33,5 +34,6 @@
 			<li> Reading User Input </li>
 			<li> Following a Design Spec </li>
 		</ol>
+		</div>
 	</body>
 </html>
