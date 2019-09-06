@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-<html>
-	<head></head>
-	<body>
 		<h1>Skills to Master</h1>
 
 		<div>
@@ -35,5 +31,3 @@
 			<li> Following a Design Spec </li>
 		</ol>
 		</div>
-	</body>
-</html>
