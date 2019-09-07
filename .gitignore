@@ -1,3 +1,6 @@
+#swp files from vi
+.swp
+
 # Compiled class file
 *.class
 
