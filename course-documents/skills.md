@@ -4,7 +4,7 @@
 	<body>
 		<h1>Skills to Master</h1>
 			<ol>
-				<li> Using git and GitHub </li>
+				<li> Using git and GitHub</li>
 				<li> Compiling Java Projects </li>
 				<li>  Using an IDE </li>
 				<li>  Formatting Console Output </li>
