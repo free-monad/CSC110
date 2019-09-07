@@ -12,7 +12,6 @@
 		<p><strong>Room</strong>: S140M</p>
 		<p><strong>Phone</strong>: 212-776-2434</p>
 		<p><strong>Email</strong>: msconroy@bmcc.cuny.edu</p>
-
 		<h2>Expectations:</h2>
 		<ol>
 			<li>Show up to class on time</li>
