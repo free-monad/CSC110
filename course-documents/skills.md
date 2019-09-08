@@ -41,7 +41,6 @@
 						<li> Use the built in build tool to link your project binaries together. </li>
 					</ol>
 				</li>
-
 				<li>  
 					<h2>Formatting Console Output</h2> 
 					<ol>
