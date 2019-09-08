@@ -4,7 +4,12 @@
 	<body>
 		<h1>Skills to Master</h1>
 			<ol>
-				<li> Understanding computers, algorithms, languages, Java history, Java uses, alternative to Java, binary representation </li>
+				<li> 
+					<h2>Understanding computers, algorithms, languages, Java history, Java uses, alternative to Java, binary representation </h2>
+					<ol>
+						<li></li>
+					</ol>
+				</li>
 				<li> 
 					<h2> Using git and GitHub </h2> 
 					<ol>
@@ -84,25 +89,46 @@
 				<li> 
 					<h2>Reading User Input</h2> 
 					<ol>
-						<li></li>
+						<li>Scanner, Console, BufferedReader</li>
+						<li>Reading input from the command line before your program starts</li>
+						<li>Reading input from a user prompt inside your program </li>
+						<li> Reading numbers vs characters vs Strings </li>
+						<li> Using ShowInputDialog </li>
 					</ol>
 				</li>
 				<li> 
 					<h2>Making Code Documentation with Markdown and Javadocs </h2>
 					<ol>
-						<li></li>
+						<li>Using single line and multi-line comments</li>
+						<li>Using special Javadoc symbols to annotate your code </li>
+						<li>Generating Javadocs </li>
+						<li>Using markdown and html for readmes and docs on GitHub </li>
+						<li> Knowing when, what,  and how much to comment or document </li>	
 					</ol>
 				 </li>
 				<li> 
 					<h2>Debugging</h2> 
 	        <ol>
-						<li></li>
+						<li> Finding errors in code</li>
+						<li> Compile-time, Run-time, and Logical Errors </li>
+						<li> Code design issues, patterns, anti-patterns, and re-factoring </li>
+						<li> Using a debugger in an IDE to step through the code </li>
+						<li> Is it a bug or a feature? </li>
+						<li> Throwing, Reading, and Using Exceptions </li>
 					</ol>
 				</li>
 				<li>.
 					<h2>Testing </h2> 
 	        <ol>
-						<li></li>
+						<li> Thinking of test cases for your program</li>
+						<li> Thinking of edge cases, input ranges, and input bounds </li>
+						<li> Writing Unit Tests </li>
+						<li> Making sure all program lines are tested (all code) </li>
+						<li> Using assertion libraries and automated testing suites </li>
+						<li> Doing behavior-driven testing </li>
+						<li> Doing end-to-end testing </li>
+						<li> The absence of proof is not proof of absence (falsifiability) </li>
+						<li> Engineers in Test and QA teams </li>
 					</ol>
 				</li>
 				<li> 
@@ -124,19 +150,19 @@
 					</ol>
 			</li>
 				<li> 
-					<h2> Objects and Classes </h2> 
-		        <ol>
-						<li></li>
-					</ol>
-			</li>
-				<li> 
 					<h2> Functions </h2> 
 		        <ol>
 						<li></li>
 					</ol>
 			</li>
 				<li> 
-					<h2> Permissions </h2> 
+					<h2> Objects and Classes </h2> 
+		        <ol>
+						<li></li>
+					</ol>
+			</li>
+				<li> 
+					<h2> Permissions and Scope</h2> 
 		        <ol>
 						<li></li>
 					</ol>
