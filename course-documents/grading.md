@@ -54,6 +54,9 @@
 			<li> Following a Design Spec </li>
 			<li> Working with Files </li>
 			<li> Searching and Sorting </li>
+      <li> Working with Streams </li>
+      <li> Packages and namespaces </li>
+      <li> Writing programs using other modules and API's </li>
 		</ol>
 	</body>
 </html>

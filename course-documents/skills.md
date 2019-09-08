@@ -4,6 +4,7 @@
 	<body>
 		<h1>Skills to Master</h1>
 			<ol>
+				<li> Understanding computers, algorithms, languages, Java history, Java uses, alternative to Java, binary representation </li>
 				<li> 
 					<h2> Using git and GitHub </h2> 
 					<ol>
@@ -65,37 +66,159 @@
 						<li> Type casting </li>
 						<li> Understanding overflow and underflow </li>
 						<li> Working with Constants </li>
+						<li> Getting to know null </li>
 					</ol>
 				</li>
 				<li> 
 					<h2>Using Operators </h2>
 					<ol>
+						<li>Using standard Math operators and modulus</li>
+						<li> Using the Math library functions </li>
+						<li> Typecasting with operators </li>
+						<li> Using operators with Strings and other objects </li>
+						<li> Using operations from type class library functions </li>
+						<li> Understanding operator precedence </li>
+						<li> Using increment, decrement, and the combined assignment operators </li>
+					</ol>
+				</li>
+				<li> 
+					<h2>Reading User Input</h2> 
+					<ol>
 						<li></li>
 					</ol>
 				</li>
-				<li> Performing Type casting </li>
-				<li> Performing string manipulation </li>
-				<li> Debugging </li>
-				<li>.Testing </li>
-				<li> Understanding computers, algorithms, languages, Java history, Java uses, alternative to Java, binary representation </li>
-				<li> Logical Control Structures </li>
-				<li>Loops </li>
-				<li> Arrays </li>
-				<li> Objects and Classes </li>
-				<li> Functions </li>
-				<li> Permissions </li>
-				<li> Method Overloading </li>
-				<li> Using Other Libraries </li>
-				<li> Project Designing and Building </li>
-				<li> Publishing Code </li>
-				<li> Deploying Applications </li>
-				<li> Language Parsing </li>
-				<li> Tracing Programs </li>
-				<li> Making Code Documentation with Markdown and Javadocs </li>
-				<li> Reading User Input </li>
-				<li> Following a Design Spec </li>
-				<li> Working with Files </li>
-				<li> Searching and Sorting </li>
+				<li> 
+					<h2>Making Code Documentation with Markdown and Javadocs </h2>
+					<ol>
+						<li></li>
+					</ol>
+				 </li>
+				<li> 
+					<h2>Debugging</h2> 
+	        <ol>
+						<li></li>
+					</ol>
+				</li>
+				<li>.
+					<h2>Testing </h2> 
+	        <ol>
+						<li></li>
+					</ol>
+				</li>
+				<li> 
+					<h2>Logical Control Structures </h2>
+		        <ol>
+						<li></li>
+					</ol>
+			</li>
+				<li>
+					<h2> Loops </h2> 
+		        <ol>
+						<li></li>
+					</ol>
+			</li>
+				<li> 
+					<h2> Arrays </h2>
+		        <ol>
+						<li></li>
+					</ol>
+			</li>
+				<li> 
+					<h2> Objects and Classes </h2> 
+		        <ol>
+						<li></li>
+					</ol>
+			</li>
+				<li> 
+					<h2> Functions </h2> 
+		        <ol>
+						<li></li>
+					</ol>
+			</li>
+				<li> 
+					<h2> Permissions </h2> 
+		        <ol>
+						<li></li>
+					</ol>
+			</li>
+				<li>
+					 <h2> Method Overloading </h2>
+		        <ol>
+						<li></li>
+					</ol>
+			</li>
+				<li> 
+					<h2> Using Other Libraries </h2>
+		        <ol>
+						<li></li>
+					</ol>
+			</li>
+				<li> 
+					<h2> Project Designing and Building </h2>
+		        <ol>
+						<li></li>
+					</ol>
+			</li>
+				<li> 
+					<h2>Publishing Code </h2> 
+		        <ol>
+						<li></li>
+					</ol>
+			</li>
+				<li> 
+					<h2>Deploying Applications </h2>
+		        <ol>
+						<li></li>
+					</ol>
+			</li>
+				<li> 
+					<h2>Language Parsing </h2>
+		        <ol>
+						<li></li>
+					</ol>
+			</li>
+				<li> 
+					<h2>Tracing Programs </h2>
+		        <ol>
+						<li></li>
+					</ol>
+			</li>
+				<li> 
+					<h2>Following a Design Spec </h2> 
+		        <ol>
+						<li></li>
+					</ol>
+			</li>
+				<li>
+					 <h2>Working with Files  </h2>
+		        <ol>
+						<li></li>
+					</ol>
+			</li>
+				<li> 
+					<h2>Searching and Sorting </h2>
+		        <ol>
+						<li></li>
+					</ol>
+			</li>
+				<li> 
+					<h2>Working with Streams </h2>
+		        <ol>
+						<li></li>
+					</ol>
+			</li>
+				<li> 
+					<h2>Packages and namespaces </h2>
+		        <ol>
+						<li></li>
+					</ol>
+			</li>	
+				<li> 
+					<h2>Writing programs using other modules and API's </h2>
+		        <ol>
+						<li></li>
+					</ol>
+			</li>
 			</ol>
 	</body>
 </html>
