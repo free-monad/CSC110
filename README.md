@@ -1,2 +1,2 @@
-# CIS110
+# CSC110
 Tutorials, Examples, Labs, Projects, Lecture Notes, Cheatsheets, Homeworks, and Challenges for CIS110
