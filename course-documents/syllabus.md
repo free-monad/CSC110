@@ -4,7 +4,7 @@
 	<body>
 		<h1>Supplemental Syllabus</h1>
 		<h2>Contact Information</h2>
-		<p>CIS110</p>
+		<p>CSC110</p>
 		<p>Fall 2019</p>
 		<p>3 Class Hours</p>
 		<p>2 Lab Hours</p>
