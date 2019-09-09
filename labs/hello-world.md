@@ -56,11 +56,13 @@
 						<p> Place the following code inside the file: </p>
 						<code>
 							<pre>
-								public class HelloWorld {
-									public static void main(String [] args) {
-										System.out.println("Hello World!");
-									}
-								}	
+public class HelloWorld {
+
+	public static void main(String [] args) {
+		System.out.println("Hello World!");
+	}
+
+}	
 							</pre>
 						</code>
 						<p> When you are finished, save the file </p>
