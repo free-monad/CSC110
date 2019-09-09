@@ -4,14 +4,16 @@
 	<body>
 		<h1>Supplemental Syllabus</h1>
 		<h2>Contact Information</h2>
-		<p>CSC110</p>
-		<p>Fall 2019</p>
+		<p><strong>CSC110 </strong></p>
+		<p><strong>Fall 2019 </strong></p>
 		<p>3 Class Hours</p>
 		<p>2 Lab Hours</p>
 		<p>Professor Matthew Conroy</p>
 		<p><strong>Room</strong>: S140M</p>
 		<p><strong>Phone</strong>: 212-776-2434</p>
 		<p><strong>Email</strong>: msconroy@bmcc.cuny.edu</p>
+		<p><strong>Username: </strong> free-monad</strong></p>
+		<p><strong>Course Repo: </strong> <a href="https://github.com/free-monad/CSC110">https://github.com/free-monad/CSC110 </a></p>
 		<h2>Expectations:</h2>
 		<ol>
 			<li>Show up to class on time</li>
