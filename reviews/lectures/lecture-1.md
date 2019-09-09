@@ -4,7 +4,7 @@
 </head>
 <body>
 <h1> Lecture 1 </h1>
-<h2> Metting Notes: </h2>
+<h2> Meeting Notes: </h2>
 <ul>
 	<li> We met and covered the basic mechanics of the class </li>
 	<li> We talked about what a computer is and what an algorithm is </li>
