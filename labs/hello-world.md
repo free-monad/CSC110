@@ -55,11 +55,13 @@
 						<p> Create a new file named HelloWorld.java and open the file for editting in your favorite basic text editor or IDE. Note that the name of the file must match the name of the class you declare at the beginning of your code.</p>
 						<p> Place the following code inside the file: </p>
 						<code>
-							public class HelloWorld {
-								public static void main(String [] args) {
-									System.out.println("Hello World!");
-								}
-							}	
+							<pre>
+								public class HelloWorld {
+									public static void main(String [] args) {
+										System.out.println("Hello World!");
+									}
+								}	
+							</pre>
 						</code>
 						<p> When you are finished, save the file </p>
 					</li>
