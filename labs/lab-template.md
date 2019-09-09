@@ -3,9 +3,11 @@
 <head>
 </head>
 <body>
+	<header>
+		<h1> Add a Title </h1>
+	</header>
 	<main>
 		<section>
-			<h1> Add a Title </h1>
 			<h2> Objective </h2>
 			<p>
 				Add a mission statement
