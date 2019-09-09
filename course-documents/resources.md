@@ -18,7 +18,7 @@
 				<dd> This is where you can download the light-weight text editor Atom. It's free and open-source and has lots of plug-ins that can turn it into an IDE for Java </dd>
 				<dt> <a href="https://github.com/"> Github </a></dt>
 				<dd> This is where you can go to set-up code repositories or download other people's work </dd>
-				<dt> <<a href="https://github.com/free-monad/CSC110"> CSC110 Repository</a></dt>
+				<dt> <a href="https://github.com/free-monad/CSC110"> CSC110 Repository</a></dt>
 				<dd> This a link to the repository for all of our course documents </dd>
 				<dt> <a href="https://stackoverflow.com/questions/tagged/java"> Stack Overflow</a></dt>
 				<dd> This is a helpful forum where you can get help with common coding questions and sticking points. </dd>
