@@ -34,13 +34,13 @@
 		<section>
 			<h2> Materials </h2>
 			<p>
-				<ul>
+				<ol>
 					<li>Java SE 12 SDK</li>
 					<li>PATH variable and JAVA_HOME </li>
 					<li> The Java compiler, javac </li>
 					<li> The Java execution command, java </li>
 					<li> Access to your computer's terminal/command-line interface </li>
-				</ul>
+				</ol>
 			</p>	
 		</section>
 		<section>
