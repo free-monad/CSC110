@@ -4,13 +4,13 @@
 	<body>
 		<h1>Helpful Links and Resources</h1>
 			<dl>
-				<dt> <a href=""https://www.oracle.com/java/technologies/jdk12-downloads.html> Download Java Standard Edition SDK </a> </dt>
+				<dt> <a href="https://www.oracle.com/java/technologies/jdk12-downloads.html"> Download Java Standard Edition SDK </a> </dt>
 				<dd> This is the software that will help you compile Java programs you have written </dd>
-				<dt> <a href=""https://git-scm.com/downloads> Download Git </a> </dt>
+				<dt> <a href="https://git-scm.com/downloads"> Download Git </a> </dt>
 				<dd> This is where you can download the Git free and open-source version control software </dd>
 				<dt> <a href="https://netbeans.org/downloads/8.2/"> Download NetBeans </a> </dt>
 				<dd> This is where you can download the Netbeans Integrated Development Environment for building Java programs </dd>
-				<dt> <a href="https://www.jetbrains.com/idea/download/#section=linuxhttps://www.jetbrains.com/idea/download/"> Download JetBrains IntelliJ </a> <dt>
+				<dt> <a href="https://www.jetbrains.com/idea/download/"> Download JetBrains IntelliJ </a> <dt>
 				<dd> This is where you can download another IDE for Java </dd>
 				<dt> <a href="https://www.eclipse.org/downloads/"> Download Eclipse </a> </dt>
 				<dd> This is where you can download another IDE for Java </dd>
@@ -28,7 +28,7 @@
 				<dd> This is where you can practice solving small programming problems to help you learn the language </dd>
 				<dt> <a href="https://www.edureka.co/blog/cheatsheets/java-cheat-sheet/"> Java Cheatsheet </a></dt>
 				<dd> A quick reference for Java programming </dd>
-				<dt> <a href="https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf:> Git Cheatsheet </a></dt>
+				<dt> <a href="https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf"> Git Cheatsheet </a></dt>
 				<dd> A quick reference for using Git from the terminal </dd>
 				<dt> <a href="https://gist.github.com/ashishrana160796/4ac492caa9b306eac0adb3716e8b76d3"> Javadoc Cheatsheet </a> </dt>
 				<dd> A quick reference for the comment tags required to generate Java documentation for your code </dd>
