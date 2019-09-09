@@ -42,7 +42,7 @@
 			</p>
 		</section>
 		<section>
-			<h2> Conclusion <h2>
+			<h2> Conclusion </h2>
 			<p>
 				Add a closing summary about what was achieved or not achieved or what more can be done
 			</p>
