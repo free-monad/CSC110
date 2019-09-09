@@ -65,6 +65,7 @@
 						<li> Using + and the string methods to manipulate strings</li>
 						<li> Using escape characters </li>	
 						<li> Converting other primitives and objects into Strings </li>
+						<li> Using printf to format Strings </li>
 					</ul>
 				</li>
 				<li> 
