@@ -5,6 +5,16 @@
 <body>
 	<header>
 		<h1> Add a Title </h1>
+		<table>
+			<tr>
+				<td><strong>Skill</strong></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td><strong>Value</strong></td>
+				<td></td>
+			</tr>
+		</table>
 	</header>
 	<main>
 		<section>

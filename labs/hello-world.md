@@ -4,7 +4,25 @@
 </head>
 <body>
 	<header>
-		<h1> Hello World </h1>
+		<h1> Hello World</h1>
+		<table>
+			<tr>
+				<td>
+					<strong>Skill:</strong>
+				</td>
+				<td>
+					Compiling Java Projects
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<strong>Value </strong>
+				</td>
+				<td>
+					+3 Levels
+				</td>
+			</tr>
+		</table>
 	</header>
 	<main>
 		<section>
