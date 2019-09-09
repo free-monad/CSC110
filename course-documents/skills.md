@@ -34,6 +34,7 @@
 						<li> Reporting Bugs and Issues </li>
 						<li> Adding Collaborators </li>
 						<li> Choosing a License </li>
+						<li> How to collaborate with others using git </li>
 					</ul>
 				</li>
 				<li> 
