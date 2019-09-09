@@ -151,7 +151,6 @@
 						<li> continue and break </li>
 						<li>do while loops </li>
 						<li>for loops </li>
-
 					</ol>
 			</li>
 				<li> 
@@ -173,67 +172,113 @@
 						<li> Using functions to organize programs </li>
 						<li> Functions as represented in Java </li>
 						<li> Function signatures: parameters and return type </li>
-				
+						<li> Passing parameters to functions </li>
+						<li> Passing primitive types vs passing objects (value vs reference) </li>
+						<li> Passing arrays </li>
+						<li> functions vs methods: object vs class ownership </li>	
+						<li> Creating anonymous functions </li>
 					</ol>
 			</li>
 				<li> 
 					<h2> Objects and Classes </h2> 
 		        <ol>
-						<li></li>
+						<li> Recognizing and using existing classes </li>
+						<li> Recognizing and using existing objects </li>
+						<li> Creating your own classes </li>
+						<li> Creating objects from your own class </li>
+						<li> Creating class specific variables and functions </li>
+						<li> Creating object specific variables and functions </li>
+						<li> Creating anonymous inner classes </li>
 					</ol>
 			</li>
 				<li> 
 					<h2> Permissions and Scope</h2> 
 		        <ol>
-						<li></li>
+						<li> Private, public, and protected</li>
+						<li> local and global scope </li>
+						<li> closures </li>
+						<li> how class vs object ownership affects scope </li>
 					</ol>
 			</li>
 				<li>
-					 <h2> Method Overloading </h2>
+					 <h2> Method Overloading and Overriding</h2>
 		        <ol>
-						<li></li>
+						<li>Overriding common system methods</li>
+						<li> Overloading your own functions, why and when you should </li>
+						<li> Overloading in class vs object </li>
 					</ol>
 			</li>
 				<li> 
 					<h2> Using Other Libraries </h2>
 		        <ol>
-						<li></li>
+						<li> Working with Java standard API features </li>
+						<li> Working with public modules from GitHub </li>
+						<li> Advanced file and string processing </li>
+						<li>Graphical User Interfaces</li>
+						<li> Working with the web </li>
+						<li>AI </li>
 					</ol>
 			</li>
 				<li> 
 					<h2> Project Designing and Building </h2>
 		        <ol>
-						<li></li>
+						<li>User Requirements Document</li>
+						<li>Design Specification </li>
+						<li>UML Diagram </li>
 					</ol>
 			</li>
 				<li> 
 					<h2>Publishing Code </h2> 
-		        <ol>
-						<li></li>
+		       <ol>
+						<li>Publishing source on GitHub, best practices</li>
+						<li>Publishing to a package manager </li>
+						<li>Publishing from your own server </li>
 					</ol>
 			</li>
 				<li> 
 					<h2>Deploying Applications </h2>
-		        <ol>
-						<li></li>
+		       <ol>
+						<li>Packaging your software and distributing it yourself </li>
+						<li>Write Once run anywhere, Linux, Mac, Windows </li>
+						<li> Writing for Android </li>
+						<li> Writing for Refridgerators, toasters, and microwaves </li>
+						<li> Writing Enterprise Web Applications </li>	/li>
 					</ol>
 			</li>
 				<li> 
 					<h2>Language Parsing </h2>
 		        <ol>
-						<li></li>
+						<li>keywords</li>
+						<li>user-defined terms </li>
+						<li> string and numeric literals </li>
+						<li> punctuation </li>
+						<li> flow control structures </li>
+						<li> blocking and scope </li>
+						<li> expressions vs statements </li>
 					</ol>
 			</li>
 				<li> 
 					<h2>Tracing Programs </h2>
 		        <ol>
-						<li></li>
+						<li>keeping a scratch pad for your variables</li>
+						<li> Moving through logical control structures </li>
+						<li> Moving through loops </li>
+						<li> Pushing and popping through the function static </li>
+						<li> Tracing recursion </li>
+						<li> Tracing when multiple object scopes are in play (the heap)</li>
 					</ol>
 			</li>
 				<li> 
 					<h2>Following a Design Spec </h2> 
 		        <ol>
-						<li></li>
+						<li>Creating exactly what is asked for</li>
+						<li>Asking questions to clarify ambiguity </li>
+						<li>Asking questions to improve design </li>
+						<li>Updating the document </li>
+						<li>Adding and removing features </li>
+						<li>Updating the document when something is impossible to implement </li>
+						<li>Updating the document when a feature becomes seen as undesirable </li>
+						<li>Using waterfall, agile, and scrum development methodologies </li>
 					</ol>
 			</li>
 				<li>
