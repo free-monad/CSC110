@@ -7,7 +7,17 @@
 				<li> 
 					<h2>Understanding computers, algorithms, languages, Java history, Java uses, alternative to Java, binary representation </h2>
 					<ol>
-						<li></li>
+						<li>What is a computer?</li>
+						<li>What is an algorithm?</li>
+						<li>What is machine language and what are binary numbers? </li>
+						<li> What is a programming language </li>
+						<li> How was Java born? </li>
+						<li> What is Java best suited for? </li>
+						<li> What are some of Java's competition? </li>
+						<li> What are the versions of Java? </li>
+						<li> What is Java not good for?  </li>
+						<li> What are some other languages? </li>
+						<li> Are there things computers can't do? </li>
 					</ol>
 				</li>
 				<li> 
@@ -284,25 +294,40 @@
 				<li>
 					 <h2>Working with Files  </h2>
 		        <ol>
-						<li></li>
+						<li>Reading a file</li>		
+						<li>Writing a file</li>
+						<li>Updating and deleting a file </li>
+						<li> ASCII vs Unicode in text files </li>
+						<li> Working with binary files </li>
 					</ol>
 			</li>
 				<li> 
 					<h2>Searching and Sorting </h2>
 		        <ol>
-						<li></li>
+						<li>Searching through arrays </li>
+						<li>Sorting Arrays </li>
+						<li>Searching through sorted arrays </li>
+						<li>Mapping one array to another </li>
+						<li>Filtering arrays </li>
+						<li>Reducing an array by performing an operation on all its values </li>
+						<li> filtering and reducing together </li>
 					</ol>
 			</li>
 				<li> 
 					<h2>Working with Streams </h2>
 		        <ol>
-						<li></li>
+						<li>Consuming  a binary stream</li>
+						<li>Consuming a text stream </li>
+						<li> Creating your own streams </li>
+						<li> Sending streams to networked devices </li>
 					</ol>
 			</li>
 				<li> 
 					<h2>Packages and namespaces </h2>
 		        <ol>
-						<li></li>
+						<li>Putting a fence around your code to protect it in the wild</li>
+						<li>Putting fences around your code when the code becomes large </li>
+						<li>Using packages to increase utility code re-use </li>
 					</ol>
 			</li>	
 		</ol>
