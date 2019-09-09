@@ -134,25 +134,46 @@
 				<li> 
 					<h2>Logical Control Structures </h2>
 		        <ol>
-						<li></li>
+						<li> Equality and equality vs assignment </li>
+						<li> logical operators </li>
+						<li>if statements</li>
+						<li> else statements </li>
+						<li> if else statements </li>
+						<li> switch and case </li>
+						<li> nested if statements </li>
+						<li> Designing branching paths for programs with flow diagrams </li>
 					</ol>
 			</li>
 				<li>
 					<h2> Loops </h2> 
 		        <ol>
-						<li></li>
+						<li>while loops</li>
+						<li> continue and break </li>
+						<li>do while loops </li>
+						<li>for loops </li>
+
 					</ol>
 			</li>
 				<li> 
 					<h2> Arrays </h2>
 		        <ol>
-						<li></li>
+						<li>Using arrays to store collections of data</li>
+						<li>Setting array size and adding elements to an array </li>
+						<li>Looping through an array </li>
+						<li> updating and removing elements from an array </li>
+						<li> Copying an array </li>
+						<li> Using parallel arrays </li>
+						<li> Multi-dimensional arrays </li>
 					</ol>
 			</li>
 				<li> 
 					<h2> Functions </h2> 
 		        <ol>
-						<li></li>
+						<li>Understanding functions, mapping inputs to outputs</li>
+						<li> Using functions to organize programs </li>
+						<li> Functions as represented in Java </li>
+						<li> Function signatures: parameters and return type </li>
+				
 					</ol>
 			</li>
 				<li> 
