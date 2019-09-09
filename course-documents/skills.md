@@ -44,6 +44,7 @@
 						<li> Writing a HelloWorld program and compiling and running from the terminal </li>
 						<li> Installing an Integrated Development Environment </li>
 						<li> Writing a HelloWorld program and compiling and running from your IDE </li>
+						<li> Compiling Java projects with multiple source files manually and with a build tool </li>
 					</ul>
 				</li>
 				<li>  
