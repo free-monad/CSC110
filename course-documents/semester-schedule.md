@@ -22,39 +22,39 @@
 			</tr>
 			<tr>
 				<td>September 28th</td>
-				<td>Logical Control Structures, Loops, and Arrays, Debugging and Testing,  </td>
+				<td>Logical Control Structures and Debugging and Testing,  </td>
 			</tr>
 			<tr>
 				<td>October 5th</td>
-				<td> First Test </td>
+				<td>Loops and Files, more Debugging and Testing </td>
 			</tr>
 			<tr>
 				<td>October 12th</td>
-				<td> Packages, Functions, Objects, Classes, Permissions, Scope, and Operator Overloading</td>
+				<td> Arrays and Review</td>
 			</tr>
 			<tr>
 				<td>October 19th</td>
-				<td> </td>
+				<td><strong> First Test</strong></td>
 			</tr>
 			<tr>
 				<td>October 26th</td>
-				<td> </td>
+				<td> More on Arrays, Organizing programs with Functions, Intro to Objects and Classes </td>
 			</tr>
 			<tr>
 				<td>November 2nd </td>
-				<td> </td>
+				<td> More on Classes and Functions, Discussion of permissions, scope, signatures, and parameter passing</td>
 			</tr>
 			<tr>
 				<td>November 9th</td>
-				<td> </td>
+				<td> Java Data Structures and the Java Object Model</td>
 			</tr>
 			<tr>
 				<td>November 16th</td>
-				<td> </td>
+				<td> Review Session and Lab Time</td>
 			</tr>
 			<tr>
 				<td>November 23rd </td>
-				<td> </td>
+				<td><strong>Second Test</strong> </td>
 			</tr>
 			<tr>
 				<td>November 30th </td>
@@ -62,15 +62,11 @@
 			</tr>
 			<tr>
 				<td>December 7th </td>
-				<td> </td>
+				<td> Review Session and Lab Time</td>
 			</tr>
 			<tr>
 				<td>December 14th </td>
-				<td> </td>
-			</tr>
-			<tr>
-				<td>December 21st </td>
-				<td> </td>
+				<td><strong>Final</strong></td>
 			</tr>
 	</body>
 </html>
