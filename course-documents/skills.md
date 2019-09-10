@@ -34,6 +34,7 @@
 						<li> Reporting Bugs and Issues </li>
 						<li> Adding Collaborators </li>
 						<li> Choosing a License </li>
+						<li> How to collaborate with others using git </li>
 					</ul>
 				</li>
 				<li> 
@@ -65,6 +66,7 @@
 						<li> Using + and the string methods to manipulate strings</li>
 						<li> Using escape characters </li>	
 						<li> Converting other primitives and objects into Strings </li>
+						<li> Using printf to format Strings </li>
 					</ul>
 				</li>
 				<li> 
