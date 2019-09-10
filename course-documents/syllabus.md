@@ -18,32 +18,44 @@
 				<table>
 					<thead>
 						<tr>
-							<th colspan="8"> Office Hours </th>
+							<th colspan="2"> Office Hours </th>
 						</tr>
 						<tr>
-							<td colspan="8" style="text-align: center;"> <em>*Available by appointment only</em></td>
+							<td colspan="2" style="text-align: center;"> <em>*Available by appointment only</em></td>
 						</tr>
 					</thead>
 					<tbody>
 						<tr>
 							<th>Day</th>
+							<ht>Times</th>
+						<tr>
+						<tr>
 							<td>Monday</td> 
-							<td>Tuesday</td>
-							<td>Wednesday</td>
-							<td>Thursday</td>
-							<td>Friday</td>
-							<td>Saturday</td>
-							<td>Sunday</td>
+							<td><p>12pm - 2pm</p> <p>5pm - 6pm</p> </td>
 						</tr>
 						<tr>
-							<th> Times </th>
+							<td>Tuesday</td>
 							<td><p>12pm - 2pm</p> <p>5pm - 6pm</p> </td>
-							<td> <p>12pm - 2pm</p> <p>5pm - 6pm</p> </td>
-							<td> <p>12pm - 2pm</p> <p>5pm - 6pm</p> </td>
-							<td> <p>12pm - 2pm</p> <p>5pm - 6pm</p> </td>
+						</tr>
+						<tr>
+							<td>Wednesday</td>
+							<td><p>12pm - 2pm</p> <p>5pm - 6pm</p> </td>
+						</tr>
+						<tr>
+							<td>Thursday</td>
+							<td><p>12pm - 2pm</p> <p>5pm - 6pm</p> </td>
+						</tr>
+						<tr>
+							<td>Friday</td>
 							<td><strong>Not Available</strong></td>
+						</tr>
+						<tr>
+							<td>Saturday</td>
 							<td>3pm - 5pm </td>
-							<td><strong>Not Available</strong> </td>
+						</tr>
+						<tr>
+							<td>Sunday</td>
+							<td><strong>Not Available</strong></td>
 						</tr>
 					</tbody>
 				</table>
