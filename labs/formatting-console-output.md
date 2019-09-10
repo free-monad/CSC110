@@ -80,7 +80,7 @@
 		<section>
 			<h2> Conclusion </h2>
 			<p>
-				You've gotten quite the exercise in String manipulation, great work!
+				You've gotten quite the exercise in formatting console output, great work!
 			</p>
 		</section>
 	</main>
