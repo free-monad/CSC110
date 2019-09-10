@@ -60,6 +60,7 @@
 			<li> Dedicate a decent amount of time per week to practicing outside of class.</li>
 			<li> Please notify me ahead of time if you will be absent and request and make-up missed assignments</li>
 			<li>Always look at the larger picture and how the work we do here will fit into your life-long goals. Make our time together worthwhile so that you can walk away from the class with something you can use and cherish for the rest of your life. </li>
+</ol>
 		<h2>Achieving your Grade </h2>
 		<p>As specified in the syllabus, you will have 3 tests this semester that largely determine your grade in the class. The first two are worth 25% each and the final is worth 30%. That means 80% of your grade (25% + 25% + 30%) comes from your ability to perform in this medium.</p>
 		<p>The other 20% comes from your performance on labs and other assignments. In this repo, under course-documents/skills.md, you will find a list of 29 skills that you will want to master by the end of the course. The way you master them will be by completing assignments tailored to each skill.</p>
@@ -72,7 +73,7 @@
 			<li>Course Textbook <a href="https://www.amazon.com/Starting-Out-Java-Control-Structures/dp/0133957055">STARTING OUT W/JAVA:FROM...-W/ACCES, Author: Tony Gaddis, Publisher: Pearson, Edition: 7th, Year Published: 2019 </a></li>
 			<li>A USB Thumb/Disk drive or other way of removing your work from the lab.</li>
 		 	<li>A personal computer or access to a computer to do work outside of class (or a bluetooth keyboard for your phone and a text editor)</li>
-			<li>A github account for getting access to the course materials</li>
+			<li>A GitHub account for getting access to the course materials</li>
 			<li>Access to your school or CUNY registered personal email.</li>
 			<li>A Java compiler</li>
 			<li>A Java IDE</li>
