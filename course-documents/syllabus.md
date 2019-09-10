@@ -18,10 +18,10 @@
 				<table>
 					<thead>
 						<tr>
-							<th> colspan="2"> Availability </th>
+							<th colspan="8"> Availability </th>
 						</tr>
 						<tr>
-							<td> colspan="2"> by appointment </td>
+							<td colspan="8"> by appointment </td>
 						</tr>
 					</thead>
 					<tbody>
