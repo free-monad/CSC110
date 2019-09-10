@@ -44,32 +44,30 @@
  
 						Now, \\" without further adeiu, a poem inside a frame:
 
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-#																																			  					#
-#                         r-p-o-p-h-e-s-s-a-g-r																		#
-#                       E. E. Cummings - 1894-1962																#
-#																																									#
-#																																									#
-#																																									#	
-#																																									#
-#																																									#
-#                                     r-p-o-p-h-e-s-s-a-g-r												#
-#                           who																										#
-#  a)s w(e loo)k																																	#
-#  upnowgath																																			#
-#                       PPEGORHRASS																	 							#
-#                                                       eringint(o-								#
-#  aThe):l																																				#
-#               eA																																#
-#                    !p:																													#
-# S                                                                        a			#
-#                                     (r																					#
-# rIvInG                              .gRrEaPsPhOs)																#
-#                                                                        to				#
-# rea(be)rran(com)gi(e)ngly																												#
-# ,grasshopper;																																		#
-#																																									#
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\#
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+@                                                                                 
+@                          r-p-o-p-h-e-s-s-a-g-r                                  
+@                       E. E. Cummings - 1894-1962																
+@                                                                                 
+@                                                                                 
+@                                                                                 
+@                                     r-p-o-p-h-e-s-s-a-g-r                       											
+@                           who                                                   
+@  a)s w(e loo)k                                                                  
+@  upnowgath																																			
+@                       PPEGORHRASS																	 							
+@                                                       eringint(o-								
+@  aThe):l																																				
+@               eA																																
+@                    !p:																													
+@ S                                                                        a			
+@                                     (r																					
+@ rIvInG                              .gRrEaPsPhOs)																
+@                                                                        to				
+@ rea(be)rran(com)gi(e)ngly																												
+@ ,grasshopper;																																		
+@																																									
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 					</pre>
 				</code>
 			</p>
