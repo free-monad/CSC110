@@ -38,7 +38,7 @@
 						<li>
 							<p> Install one of the following IDE's </p>
 							<ul>
-								<li> <a href="ttps://atom.io"> Atom </a> </li>
+								<li> <a href="https://atom.io"> Atom </a> </li>
 								<li> <a href="https://www.jetbrains.com/idea/download/"> IntelliJ </a> </li>
 								<li> <a href="https://www.eclipse.org/downloads/"> Eclipse </a> </li>
 								<li> <a href="https://netbeans.org/downloads/8.2/"> NetBeans </a> </li>
