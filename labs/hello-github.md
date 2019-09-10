@@ -4,7 +4,7 @@
 </head>
 <body>
 	<header>
-		<h1> Add a Title </h1>
+		<h1> Hello GitHub </h1>
 		<table>
 			<tr>
 				<td><strong>Skill</strong></td>
@@ -72,15 +72,10 @@
 				</li>
 			</ol>
 		</section>
-			<h2> Results </h2>
-			<p>
-				Provide the output or expected example output of the program
-			</p>
-		</section>
 		<section>
 			<h2> Conclusion </h2>
 			<p>
-				Add a closing summary about what was achieved or not achieved or what more can be done
+				Congrats! You've successfully clone another repo of GitHub, created a GitHub account, installed Git onto your computer, created your own repo, and editted and uploaded changes to that repo! 
 			</p>
 		</section>
 	</main>
