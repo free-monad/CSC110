@@ -18,10 +18,10 @@
 				<table>
 					<thead>
 						<tr>
-							<th colspan="2"> Office Hours </th>
+							<th colspan="1"> Office Hours </th>
 						</tr>
 						<tr>
-							<td colspan="2" style="text-align: center;"> <em>*Available by appointment only</em></td>
+							<td colspan="1" style="text-align: center;"> <em>*Available by appointment only</em></td>
 						</tr>
 					</thead>
 					<tbody>
