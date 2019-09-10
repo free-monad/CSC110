@@ -14,6 +14,40 @@
 		<p><strong>Email</strong>: msconroy@bmcc.cuny.edu</p>
 		<p><strong>Username: </strong> free-monad</strong></p>
 		<p><strong>Course Repo: </strong> <a href="https://github.com/free-monad/CSC110">https://github.com/free-monad/CSC110 </a></p>
+		<p>
+				<table>
+					<thead>
+						<tr>
+							<th> colspan="2"> Availability </th>
+						</tr>
+						<tr>
+							<td> colspan="2"> by appointment </td>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<th>Day</th>
+							<td>Monday</td> 
+							<td>Tuesday</td>
+							<td>Wednesday</td>
+							<td>Thursday</td>
+							<td>Friday</td>
+							<td>Saturday</td>
+							<td>Sunday</td>
+						</tr>
+						<tr>
+							<th> Times </th>
+							<td><p>12pm - 2pm</p> <p>5pm - 6pm</p> </td>
+							<td> <p>12pm - 2pm</p> <p>5pm - 6pm</p> </td>
+							<td> <p>12pm - 2pm</p> <p>5pm - 6pm</p> </td>
+							<td> <p>12pm - 2pm</p> <p>5pm - 6pm</p> </td>
+							<td><strong>Not Available</strong></td>
+							<td>3pm - 5pm </td>
+							<td><strong>Not Available</strong> </td>
+						</tr>
+					</tbody>
+				</table>
+		</p>
 		<h2>Expectations:</h2>
 		<ol>
 			<li>Show up to class on time</li>
