@@ -9,7 +9,7 @@
 		<p>3 Class Hours</p>
 		<p>2 Lab Hours</p>
 		<p>Professor Matthew Conroy</p>
-		<p><strong>Room</strong>: S140M (Behind the ServiceDesk in Chambers)</p>
+		<p><strong>Room</strong>: S140M <em>(Behind the ServiceDesk in Chambers)</em></p>
 		<p><strong>Phone</strong>: 212-776-2434</p>
 		<p><strong>Email</strong>: msconroy@bmcc.cuny.edu</p>
 		<p><strong>Username: </strong> free-monad</strong></p>
@@ -21,7 +21,7 @@
 							<th colspan="8"> Office Hours </th>
 						</tr>
 						<tr>
-							<td colspan="8" style="text-align: center;"> *Available by appointment only</td>
+							<td colspan="8" style="text-align: center;"> <em>*Available by appointment only</em></td>
 						</tr>
 					</thead>
 					<tbody>
