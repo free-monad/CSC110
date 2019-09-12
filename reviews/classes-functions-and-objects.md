@@ -22,7 +22,7 @@ public class HelloWorld {
 
 </pre>
 </code>
-	In this program, the line <code>public class HelloWorld</code> declares the existence of a class called HelloWorld. Everything between the curly braces after HelloWorld is part of the class definition. Programs can have more than one class, as we saw with Peter Adamson's StringSorter program, but traditionally in Java, there is only one class per file. For now, you can think of a class as a kind of container that helps to organize a program by grouping common data and operations or functions that need to be performed on that data.
+	In this program, the line <code>public class HelloWorld</code> declares the existence of a class called HelloWorld. Everything between the curly braces after HelloWorld is part of the class definition. Programs can have more than one class, as we saw with <a href="https://github.com/PeterAdamson/CS2043-StringSorter">Peter Adamson's StringSorter program</a>, but traditionally in Java, there is only one class per file. For now, you can think of a class as a kind of container that helps to organize a program by grouping common data and operations or functions that need to be performed on that data.
 </p>
 <p>
 	The next line in our program, <code>public static void main(String args[])</code> declares the existence of a function named main. It is actually a very special function that always acts as the entry point into any Java program. Everything between the main function's curly braces comprises the main function's definition. The very first line where the main function is declared is sometimes called the signature or head and the code between the curly braces where all the work happens is often called the function body.
