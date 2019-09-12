@@ -179,7 +179,7 @@ Before going further though lets talk about what object and classes are at a hig
 	You can think of classes as a template that defines a new type of variable. You can then use this template to construct new variables of that type. The new variable or object can own a group of other variables as well as a group of functions. The class defines what these variables and functions are that belong to the new object and is also responsible for creating the object. In some ways the class is simultaneously a blue-print for how to make an object and a factory that builds the object.
 </p>
 <p>
-	Before going on further, let's now look at the object-oriented redesign of Calculator so that we can analyze it:
+	Before going on further, let's look at the object-oriented redesign of Calculator so that we can analyze it:
 	<code>
 		<pre>
 package CSC110;
