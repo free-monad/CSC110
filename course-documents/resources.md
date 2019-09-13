@@ -34,6 +34,8 @@
 				<dd> A quick reference for the comment tags required to generate Java documentation for your code </dd>
 				<dt> <a href="https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf"> Markdown Cheatsheet </a></dt>
 				<dd> A quick reference for writing markdown files for your readme's and other documentation </dd>
+				<dt><a href="https://media.pearsoncmg.com/ph/esm/ecs_gaddis_sowjava_cso_7/cw/#appendices">Textbook Appendices (<em>Access Code and Login Required</em>)</a> </dt>
+				<dd> A few extra and very useful appendenices from the textbook </dd>
 			</dl>
 	</body>
 </html>
