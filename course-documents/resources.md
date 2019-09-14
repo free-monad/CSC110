@@ -36,6 +36,14 @@
 				<dd> A quick reference for writing markdown files for your readme's and other documentation </dd>
 				<dt><a href="https://media.pearsoncmg.com/ph/esm/ecs_gaddis_sowjava_cso_7/cw/#appendices">Textbook Appendices (<em>Access Code and Login Required</em>)</a> </dt>
 				<dd> A few extra and very useful appendenices from the textbook </dd>
+				<dt> <a href="https://www.cs.colostate.edu/~cs160/.Summer16/resources/Java_printf_method_quick_reference.pdf"> printf </a></dt>
+				<dd> A quick reference for using printf </dd>
+				<dt> <a href="https://unicode-table.com/en/#control-character"> Unicode </a></dt>
+				<dd> A useful reference for Unicode characters and their values </dd>
+				<dt> <a href="https://en.wikipedia.org/wiki/List_of_Java_keywords"> Java Keywords </a></dt>
+				<dd> A list of Java keywords </dd>
+				<dt><a href="https://www.tutorialspoint.com/java/java_basic_datatypes.htm">Data Types</a></dt>
+				<dd>Useful information about Java's primitive data types</dd>
 			</dl>
 	</body>
 </html>
