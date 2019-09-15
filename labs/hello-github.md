@@ -75,7 +75,7 @@
 		<section>
 			<h2> Conclusion </h2>
 			<p>
-				Congrats! You've successfully clone another repo of GitHub, created a GitHub account, installed Git onto your computer, created your own repo, and editted and uploaded changes to that repo! 
+				Congrats! You've successfully cloned another repo on GitHub, created a GitHub account, installed Git onto your computer, created your own repo, and editted and uploaded changes to that repo! 
 			</p>
 		</section>
 	</main>
