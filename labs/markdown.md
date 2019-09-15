@@ -4,15 +4,15 @@
 </head>
 <body>
 	<header>
-		<h1> Add a Title </h1>
+		<h1> Markdown</h1>
 		<table>
 			<tr>
 				<td><strong>Skill</strong></td>
-				<td></td>
+				<td>Value</td>
 			</tr>
 			<tr>
-				<td><strong>Value</strong></td>
-				<td></td>
+				<td><strong>Making Code Documentation with Markdown and Javadocs</strong></td>
+				<td>+5 Levels</td>
 			</tr>
 		</table>
 	</header>
@@ -20,13 +20,13 @@
 		<section>
 			<h2> Objective </h2>
 			<p>
-				Add a mission statement
+				To make a README.md file describing how to clone, compile, and run one of your existing projects
 			</p>
 		</section>
 		<section>
 			<h2> Materials </h2>
 			<p>
-				List the tools and resources you will be using.
+
 			</p>	
 		</section>
 		<section>
