@@ -16,7 +16,7 @@
 			</tr>
 			<tr>
 				<td>Reading Input from the User </td>
-				<td> +22 Levels </td>
+				<td> +2 Levels </td>
 			</tr>
 		</table>
 	</header>
