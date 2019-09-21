@@ -26,6 +26,10 @@
 				<td><strong>Formatting Console Output</strong></td>
 				<td>+3 Levels </td>
 			</tr>
+			<tr>
+				<td><strong>Making Code Documentation with Markdown and Javadocs</strong> </td>
+				<td>+2 Levels  </td>
+			</tr>
 		</table>
 	</header>
 	<main>
