@@ -27,10 +27,6 @@
 				<td>+3 Levels </td>
 			</tr>
 			<tr>
-				<td><strong>Making Code Documentation with Markdown and Javadocs</strong> </td>
-				<td>+2 Levels  </td>
-			</tr>
-			<tr>
 				<td> </td>
 				<td> </td>
 			</tr>
