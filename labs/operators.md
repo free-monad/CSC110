@@ -65,12 +65,6 @@ You are 177.8 centimeters!
 				Congratulations! You have earned some experience working with operators!
 			</p>
 		</section>
-		<section>
-			<h2> Figures and Graphs </h2>
-			<p>
-				If you have any cool graphs or graphics, throw them here!
-			</p>
-		</section>
 	</main>
 </body>
 </html>
