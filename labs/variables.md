@@ -26,10 +26,6 @@
 				<td><strong>Formatting Console Output</strong></td>
 				<td>+3 Levels </td>
 			</tr>
-			<tr>
-				<td> </td>
-				<td> </td>
-			</tr>
 		</table>
 	</header>
 	<main>
