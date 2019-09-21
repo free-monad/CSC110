@@ -67,12 +67,13 @@
 				</dl>
 			</dd>
 			<dt> <a href="https://github.com/free-monad/CSC110/blob/master/reviews/operators.md">operators</a> </dt>
-			<dd>These are special symbols that invoke function calls to return a value. Here is a <a href="https://github.com/free-monad/CSC110/blob/master/reviews/cheatsheets/operator-precedence.md">list of operators</a> with their precedence</dd>. Some common operators are . + - ! || && == != / % and ()</dd>
+			<dd>These are special symbols that invoke function calls operating on one or more input values to return another result value. Here is a <a href="https://github.com/free-monad/CSC110/blob/master/reviews/cheatsheets/operator-precedence.md">list of operators</a> with their precedence</dd>. Some common operators are . + - ! || && == != / % and (). Using operators you can perform common operations such as addition, subtraction, multiplication, division, or others. Expressions such as <code>3 + 2</code> or <code> (20 /4) - (3 + 2 * 6)</code> contain operators</dd>
 		</dl>
 	<li> You can download, compile and run Java source programs from GitHub or any other source code repository online </li>
 	<li> You can download extra source code libraries to use as extra tools in your code (without compiling)</li>
 	<li> When we write programs, we often start out solving a specific problem and then generalize it into something that solves a larger set of problems </li>
-	<li> One way to make your computer programs solve more general problems is to take input from the user. Typically you 	
+	<li> One way to make your computer programs solve more general problems is to take input from the user. Typically you can achieve this by taking input from the user from the command line and storing the information they enter in variables. You can read more about <a href="https://github.com/free-monad/CSC110/blob/master/reviews/variables.md"> variables </a> and what we discussed last class by clicking on the word <a href="https://github.com/free-monad/CSC110/blob/master/reviews/variables.md">variables</a>.</li> 	
+	<li> Some common variable types are: integer, char, float, double, String, byte, boolean. You can read more about <a href="https://github.com/free-monad/CSC110/blob/master/reviews/types.md"> types </a> by clicking on the word <a href="https://github.com/free-monad/CSC110/blob/master/reviews/types.md"> types </a>.</li>
 </ul>
 </body>
 </html>
