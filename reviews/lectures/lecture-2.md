@@ -64,6 +64,8 @@
 					<dd> marks a block of code that is a comment for human readers</dd>
 					<dt> <code> []</code></dt>
 					<dd> Indicates a series of values inside an array (something we won't be discussing until way later)</dd>
+			<dt> literals <dt>
+			<dd> These can be thought of as explicit pieces of data such as the number <code>3</code> or the sentence <code>"I am happy"</code>. Literals are actual values written into the program. In general, it is best to store these values in variables or constants rather than repeat them throughout the program</dd>
 				</dl>
 			</dd>
 			<dt> <a href="https://github.com/free-monad/CSC110/blob/master/reviews/operators.md">operators</a> </dt>
