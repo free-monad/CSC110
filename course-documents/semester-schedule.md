@@ -18,23 +18,27 @@
 			</tr>
 			<tr>
 				<td>September 14th</td>
-				<td>Variables, Operators, Objects, Constants, Reading User Input, Comments, Markdown, and Java Documentation</td>
+				<td>Variables, Operators, Objects, Constants, Reading User Input</td>
+			</tr>
+			<tr>
+				<td>September 20th</td>
+				<td>Variable Types, More Operators, Logical Control Structures, Typecasting, JDK API, Math, and String</td> 
 			</tr>
 			<tr>
 				<td>September 28th</td>
-				<td>Logical Control Structures and Debugging and Testing,  </td>
+				<td>Loops and Files</td>
 			</tr>
 			<tr>
 				<td>October 5th</td>
-				<td>Loops and Files, more Debugging and Testing </td>
+				<td>Arrays, Javadocs and Comments, Markdown, Debugging, and Testing </td>
 			</tr>
 			<tr>
 				<td>October 12th</td>
-				<td> Arrays and Review</td>
+				<td> Review Session and Lab Time</td>
 			</tr>
 			<tr>
 				<td>October 19th</td>
-				<td><strong> First Test</strong></td>
+				<td><strong> Exam 1</strong></td>
 			</tr>
 			<tr>
 				<td>October 26th</td>
