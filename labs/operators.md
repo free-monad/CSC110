@@ -4,15 +4,19 @@
 </head>
 <body>
 	<header>
-		<h1> Add a Title </h1>
+		<h1> Operators </h1>
 		<table>
 			<tr>
 				<td><strong>Skill</strong></td>
-				<td></td>
+				<td><strong>Value</strong></td>
 			</tr>
 			<tr>
-				<td><strong>Value</strong></td>
-				<td></td>
+				<td>Using Operators</td>
+				<td>+5 Levels</td>
+			</tr>
+			<tr>
+				<td>Reading Input from the User </td>
+				<td> +22 Levels </td>
 			</tr>
 		</table>
 	</header>
@@ -20,55 +24,51 @@
 		<section>
 			<h2> Objective </h2>
 			<p>
-				Add a mission statement
+				Write a computer program that takes as input someone's height in Feet and inches and returns their height in centimeters.	
 			</p>
 		</section>
 		<section>
 			<h2> Materials </h2>
 			<p>
-				List the tools and resources you will be using.
+				You will need the JDK, terminal access or an IDE as well as git and access to GitHub.
 			</p>	
 		</section>
 		<section>
 			<h2> Methods </h2>
 			<p>
-				Step by step instructions on how to run the program. Tell where the code is, how to compile it, how to run it,  where any data resources or tooling required to run the program might be found and how to include or use it. Describe expected behavior. This section should mirror your standard README.md file for an open-source program.
+				Your program should ask for a person's height in feet and inches at a prompt, preferably as two separate prompts accepting an integer number of feet and an integer number of inches. Your program should then calculate the number of centimeters from this information and display the result to the user.
 			</p>
 		</section>
 		<section>
 			<h2> Data </h2>
 			<p>
-				Point to or display any data that might be generated, consumed, altered, or deleted by the program
+				For this lab, you should know that 1 inch is equal to 2.54 centimeters and that 1 foot has 12 inches.
 			</p>
 		</section>
 		<section>
-			<h2> Results </h2>
+			<h2> Example Input/Output Sequence </h2>
 			<p>
-				Provide the output or expected example output of the program
-			</p>
-		</section>
-		<section>
-			<h2> Analysis </h2>
-			<p>
-				Talk about the meaning of the output, if it is correct and comprehensive,  what can be improved, extended, or generalized, why the output is as is
+<pre>
+<code>
+How many feet tall are you?
+5
+How many inches are you?
+10
+You are 177.8 centimeters!
+</code>
+</pre>
 			</p>
 		</section>
 		<section>
 			<h2> Conclusion </h2>
 			<p>
-				Add a closing summary about what was achieved or not achieved or what more can be done
+				Congratulations! You have earned some experience working with operators!
 			</p>
 		</section>
 		<section>
 			<h2> Figures and Graphs </h2>
 			<p>
 				If you have any cool graphs or graphics, throw them here!
-			</p>
-		</section>
-		<section>
-			<h2> References </h2>
-			<p>
-				Provide licenses, links, and credits to any code besides your own used.
 			</p>
 		</section>
 	</main>
