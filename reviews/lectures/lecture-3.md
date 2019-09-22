@@ -15,7 +15,7 @@
 	<li> After lab we took an optional 30 minute break. We returned for the next lecture sequence on if-else and switch statements used in tandem with booleans and logical operators</li>
 	<li> We next looked at a few additional operators ++, --, -, +=, -=, *=, /=</li>
 	<li> We then went over how to generate javadocs and looked at the JDK Documentation</li>
-	<li> Next we delved into the String class API and the Math class API </li>
+	<li> Next we delved into the <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/String.html">String class API</a> and the <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html">Math class API </a> </li>
 	<li> There was no extra required lab for the second lab. We used the second lab as time to catch up on any incomplete labs or an opportunity to approach any of the extra credit labs </li>
 </ul>
 <h2> Important Concepts </h2>
