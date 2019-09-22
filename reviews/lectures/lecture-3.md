@@ -19,8 +19,72 @@
 	<li> There was no extra required lab for the second lab. We used the second lab as time to catch up on any incomplete labs or an opportunity to approach any of the extra credit labs </li>
 </ul>
 <h2> Important Concepts </h2>
-<ul>
-	<li></li>
-</ul>
+<dl>
+	<dt>Variable Types</dt>
+	<dd>
+		<h3> Two Kinds of Variable Types </h3>
+		<dl>
+			<dt> primitive types </dt>
+			<dd> 
+				Types that are not objects. Baked into the system. All other variable types reduce to sets of these
+			</dd>
+			<dt> Object types </dt>
+			<dd> Instantiated from classes, these variables contain objects such as String or Scanner. They are composed of other variables and functions</dd>
+		</dl>
+		<h3> The Primitive Types </h3>
+		<dl>
+			<dt>number types</dt>
+			<dd>
+				<dl>
+					<dt> integer types </dt>
+					<dd>
+						<ul>
+							<li> byte </li>
+							<li> short </li>
+							<li> int </li>
+							<li> long </li>
+						</ul>
+					</dd>
+					<dt> floating point types </dt>
+					<dd>
+						<ul>
+							<li>float</li>
+							<li>double</li>
+						</ul>
+					</dd>
+				</dl>
+			</dd>
+			<dt> letter types </dt>
+			<dd>
+				<ul>
+					<li> ASCII and Unicode Mappings </li>
+					<li> char </li>
+					<li> String (String is not primitive)</li>
+				</ul>
+			</dd>
+			<dt> boolean</dt>
+			<dd>variables can take on the values true or false</dd>
+		</dl>
+		<h3> Some Object Types</h3>
+		<ul>
+			<li> String </li>
+			<li> Scanner </li>
+			<li> ArrayList </li>
+			<li> HashSet </li>
+			<li> TreeSet </li>
+		</ul>
+	</dd>
+	<dt>Operators</dt>
+	<dd>
+		<dl>
+			<dt>Arithmetic Operators </dt>
+			<dd></dd>
+			<dt>Logical Operators</dt>
+			<dd></dd>
+			<dt>Using Logical Operators with Boolean Variables</dt>
+			<dd></dd>
+		</dl>
+	</dd>
+</dl>
 </body>
 </html>
