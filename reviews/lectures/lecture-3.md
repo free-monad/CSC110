@@ -20,9 +20,9 @@
 </ul>
 <h2> Important Concepts </h2>
 <dl>
-	<dt>Variable Types</dt>
+	<dt><h3>Variable Types</h3></dt>
 	<dd>
-		<h3> Two Kinds of Variable Types </h3>
+		<h4> Two Kinds of Variable Types </h4>
 		<dl>
 			<dt> primitive types </dt>
 			<dd> 
@@ -31,7 +31,7 @@
 			<dt> Object types </dt>
 			<dd> Instantiated from classes, these variables contain objects such as String or Scanner. They are composed of other variables and functions</dd>
 		</dl>
-		<h3> The Primitive Types </h3>
+		<h4> The Primitive Types </h4>
 		<dl>
 			<dt>number types</dt>
 			<dd>
@@ -74,17 +74,53 @@
 			<li> TreeSet </li>
 		</ul>
 	</dd>
-	<dt>Operators</dt>
+	<dt><h3>Operators</h3></dt>
 	<dd>
+		<p> They are just special functions that have the privilege of special infix notation </p>
 		<dl>
 			<dt>Arithmetic Operators </dt>
-			<dd></dd>
+			<dd>
+				<dl>
+					<dt>+</dt>
+					<dd>Addition</dd>
+					<dt>-</dt>
+					<dd>Subtraction</dd>
+					<dt> - </dt>
+					<dd> Unary Minus (negation, -a) </dd>
+					<dt> * </dt>
+					<dd> Multiplication</dd>
+					<dt> / </dt>
+					<dd> Division </dd>
+					<dt> ++ </dt>
+					<dd> Increment (same as x = x + 1)</dd>
+					<dt> -- </dt>
+					<dd> Decrement (same as x = x -1)</dd>
+					<dt> () </dt>
+					<dd>Parentheses</dd>
+					<dt> % <dt>
+					<dd> Modulus (returns the remainder in an integer division) </dd>
+				</dl>
+				<dl>
+					<dt> += </dt>
+					<dd> a += 5 //same as a = a + 5</dd>
+					<dt> -= </dt>
+					<dd> a -= 6 //same as a = a - 6</dd>
+					<dt> *= </dt>
+					<dd> a *= 7 //same as a = a * 7</dd>
+					<dt> /= </dt>
+					<dd> a /= 8 // same as a = a / 8</dd>
+				</dl>	
+			</dd>
 			<dt>Logical Operators</dt>
 			<dd></dd>
 			<dt>Using Logical Operators with Boolean Variables</dt>
 			<dd></dd>
 		</dl>
 	</dd>
+	<dt><h3>String Class</h3></dt>
+	<dd></dd>
+	<dt<h3>Math Class</h3></dt>
+	<dd></dd>
 </dl>
 </body>
 </html>
