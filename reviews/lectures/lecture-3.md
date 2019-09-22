@@ -144,10 +144,34 @@
 			<dd>Boolean variables and numbers are a natural fit for logical operators</dd>
 		</dl>
 	</dd>
-	<dt><h3>String Class</h3></dt>
-	<dd></dd>
-	<dt<h3>Math Class</h3></dt>
-	<dd></dd>
+	<dt><h3><a href="https://docs.oracle.com/javase/9/docs/api/java/lang/String.html">String Class</a></h3></dt>
+	<dd>
+		<ul>
+			<li>toUpperCase()</li>
+			<li>toLowerCase()</li>
+			<li>trim()</li>
+			<li>substring(start,end)</li>
+			<li>length()</li>
+			<li>valueOf(var)</li>
+			<li>hashCode()</li>
+		</ul>
+	</dd>
+	<dt<h3><a href="https://docs.oracle.com/javase/9/docs/api/java/lang/Math.html">Math Class</a></h3></dt>
+	<dd>
+		<ul>
+			<li>Math.PI</li>
+			<li>Math.E</li>
+			<li>Math.pow(b,x)</li>
+			<li>Math.ceil(n)</li>
+			<li>Math.floor(n)</li>
+			<li>Math.abs(n)</li>
+			<li>Math.random()</li>
+			<li>Math.sqrt(n)</li>
+			<li>Math.sin(n)</li>
+			<li>Math.cos(n)</li>
+			<li>Math.tan(n)</li>
+		</ul>
+	</dd>
 </dl>
 </body>
 </html>
