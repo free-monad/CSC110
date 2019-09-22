@@ -38,6 +38,7 @@
 				<dl>
 					<dt> integer types </dt>
 					<dd>
+						<p> *listed from smallest to largest </p>
 						<ul>
 							<li> byte </li>
 							<li> short </li>
@@ -47,6 +48,7 @@
 					</dd>
 					<dt> floating point types </dt>
 					<dd>
+						<p> *listed from smallest to largest </p>
 						<ul>
 							<li>float</li>
 							<li>double</li>
@@ -67,11 +69,11 @@
 		</dl>
 		<h3> Some Object Types</h3>
 		<ul>
-			<li> String </li>
-			<li> Scanner </li>
-			<li> ArrayList </li>
-			<li> HashSet </li>
-			<li> TreeSet </li>
+			<li> <a href="https://docs.oracle.com/javase/9/docs/api/java/lang/String.html">String </a> </li>
+			<li> <a href="https://docs.oracle.com/javase/9/docs/api/java/util/Scanner.html">Scanner</a> </li>
+			<li> <a href="https://docs.oracle.com/javase/9/docs/api/java/util/ArrayList.html">ArrayList </a></li>
+			<li> <a href="https://docs.oracle.com/javase/9/docs/api/java/util/HashSet.html">HashSet </a></li>
+			<li> <a href="https://docs.oracle.com/javase/9/docs/api/java/util/TreeSet.html">TreeSet </a></li>
 		</ul>
 	</dd>
 	<dt><h3>Operators</h3></dt>
@@ -112,9 +114,34 @@
 				</dl>	
 			</dd>
 			<dt>Logical Operators</dt>
-			<dd></dd>
+			<dd>
+				<dl>
+					<dt> &lt </dt>
+					<dd> Less Than</dd>
+					<dt> &gt </dt>
+					<dd> Greater Than </dd>
+					<dt> &lt= </dt>
+					<dd> Less Than or Equal To </dd>
+					<dt> &gt= </dt>
+					<dd> Greater Than or Equal To </dd>
+					<dt> == </dt>
+					<dd> Equality </dd>
+					<dt> != </dt>
+					<dd> Not Equal </dd>
+					<dt> ! </dt>
+					<dd> Not </dd>
+					<dt> || </dt>
+					<dd> Logical OR </dd>
+					<dt> &amp&amp </dt>
+					<dd> Logical AND </dd>
+					<dt> &amp </dt>
+					<dd> Bitwise AND </dd>
+					<dt> | </dt>
+					<dd> Bitwise OR </dt>
+				</dl>
+			</dd>
 			<dt>Using Logical Operators with Boolean Variables</dt>
-			<dd></dd>
+			<dd>Boolean variables and numbers are a natural fit for logical operators</dd>
 		</dl>
 	</dd>
 	<dt><h3>String Class</h3></dt>
