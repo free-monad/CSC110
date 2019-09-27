@@ -51,7 +51,7 @@ Please provide us with your first sentence:
 > I'm a nice alien, I swear!
 
 Please proivde us with your second sentence:
-> &nbsp &nbsp &nbsp &nbsp &nbsp I'm a nice ALIEN, I swear!
+                       I'm a nice ALIEN, I swear!
 
 It appears that both of these sentences are the same!
 
