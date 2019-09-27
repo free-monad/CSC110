@@ -48,10 +48,10 @@
 Welcome to the StringManipulation program!
 ===========================================
 Please provide us with your first sentence:
-> I'm a nice alien, I swear!
+prompt> I'm a nice alien, I swear!
 
 Please proivde us with your second sentence:
-                       I'm a nice ALIEN, I swear!
+prompt>                       I'm a nice ALIEN, I swear!
 
 It appears that both of these sentences are the same!
 
