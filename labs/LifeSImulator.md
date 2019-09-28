@@ -4,15 +4,15 @@
 </head>
 <body>
 	<header>
-		<h1> Add a Title </h1>
+		<h1> LifeSimulator</h1>
 		<table>
 			<tr>
 				<td><strong>Skill</strong></td>
-				<td></td>
+				<td><strong>Value</strong></td>
 			</tr>
 			<tr>
-				<td><strong>Value</strong></td>
-				<td></td>
+				<td>Logical Control Structures</td>
+				<td>+10 Levels</td>
 			</tr>
 		</table>
 	</header>
@@ -20,13 +20,13 @@
 		<section>
 			<h2> Objective </h2>
 			<p>
-				Add a mission statement
+				To write a computer program that accurately simulates all of your major life decisions.
 			</p>
 		</section>
 		<section>
 			<h2> Materials </h2>
 			<p>
-				List the tools and resources you will be using.
+				String, Math.random(), if-else,, switch
 			</p>	
 		</section>
 		<section>
@@ -38,25 +38,25 @@
 		<section>
 			<h2> Data </h2>
 			<p>
-				Point to or display any data that might be generated, consumed, altered, or deleted by the program
+				The choices and preferences of the user.
 			</p>
 		</section>
 		<section>
 			<h2> Results </h2>
 			<p>
-				Provide the output or expected example output of the program
+				A life well-lived.
 			</p>
 		</section>
 		<section>
 			<h2> Analysis </h2>
 			<p>
-				Talk about the meaning of the output, if it is correct and comprehensive,  what can be improved, extended, or generalized, why the output is as is
+				There are a lot of ways to go about writing the logic for this program. The design is very much up to the individual programmer. That being said, there are easy ways to write the logic and there are hard ways, choose wisely!
 			</p>
 		</section>
 		<section>
 			<h2> Conclusion </h2>
 			<p>
-				Add a closing summary about what was achieved or not achieved or what more can be done
+				 Congratulations you just wrote an interactive life simulator! In the process, you have mastered logical operators and conditionals!
 			</p>
 		</section>
 		<section>
