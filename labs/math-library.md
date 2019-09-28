@@ -8,11 +8,23 @@
 		<table>
 			<tr>
 				<td><strong>Skill</strong></td>
-				<td></td>
+				<td><strong>Value</strong></td>
 			</tr>
 			<tr>
-				<td><strong>Value</strong></td>
-				<td></td>
+				<td>Using Operators</td>
+				<td>+6 Levels</td>
+			</tr>
+			<tr>
+				<td>Reading User Input</td>
+				<td>+2 Levels</td>
+			</tr>
+			<tr>
+				<td>Making Code Documentation with Markdown and Javadocs</td>
+				<td>+2 Levels</td>
+			</tr>
+			<tr> 
+				<td> Using Primitive Variable Types</td>
+				<td>+4 Levels</td>
 			</tr>
 		</table>
 	</header>
@@ -20,13 +32,16 @@
 		<section>
 			<h2> Objective </h2>
 			<p>
-				Add a mission statement
+				<ul>
+					<li>To calculate what day of the week it is after so many days have passed.</li>
+					<li>To calculate the circumference of a circle</li>
+					<li>To calculate how much money in interest you earn based on a given investment after a certain period of time</li>
 			</p>
 		</section>
 		<section>
 			<h2> Materials </h2>
 			<p>
-				List the tools and resources you will be using.
+				You will need the modulus operator (%), Math.PI, Math.E, the formula for the circumference of a circle (C = PI * d), the formula for continuously compounding interest A = Pe^(rt)
 			</p>	
 		</section>
 		<section>
