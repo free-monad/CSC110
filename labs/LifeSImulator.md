@@ -32,7 +32,16 @@
 		<section>
 			<h2> Methods </h2>
 			<p>
-				Step by step instructions on how to run the program. Tell where the code is, how to compile it, how to run it,  where any data resources or tooling required to run the program might be found and how to include or use it. Describe expected behavior. This section should mirror your standard README.md file for an open-source program.
+				Write a computer program that steps a person through major life events. The major choices in life (inside the simulation) are as follows:
+				<ul>
+					<li> What will your job be?</li>
+					<li>Will you save for retirement</li>
+					<li> Will you marry?</li>
+					<li> Will you have children? </li>
+					<li> Will you follow rules or will you break them?</li>
+					<li> Will you keep in touch with your friends?</li>
+					<li> Will you meaningfully contribute to society?</li>
+				</ul>
 			</p>
 		</section>
 		<section>
@@ -57,18 +66,6 @@
 			<h2> Conclusion </h2>
 			<p>
 				 Congratulations you just wrote an interactive life simulator! In the process, you have mastered logical operators and conditionals!
-			</p>
-		</section>
-		<section>
-			<h2> Figures and Graphs </h2>
-			<p>
-				If you have any cool graphs or graphics, throw them here!
-			</p>
-		</section>
-		<section>
-			<h2> References </h2>
-			<p>
-				Provide licenses, links, and credits to any code besides your own used.
 			</p>
 		</section>
 	</main>
