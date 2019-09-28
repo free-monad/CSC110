@@ -14,6 +14,10 @@
 				<td>Logical Control Structures</td>
 				<td>+10 Levels</td>
 			</tr>
+			<tr>
+				<td>Using Primitive Variable Types</td>
+				<td>+2 Levels </td>
+			</tr>
 		</table>
 	</header>
 	<main>
