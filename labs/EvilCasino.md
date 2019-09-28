@@ -8,11 +8,15 @@
 		<table>
 			<tr>
 				<td><strong>Skill</strong></td>
-				<td></td>
+				<td><strong>Value</strong></td>
 			</tr>
 			<tr>
-				<td><strong>Value</strong></td>
-				<td></td>
+				<td>Loops</td>
+				<td>+10 Levels</td>
+			</tr>
+			<tr>
+				<td>Using Primitive Variable Types</td>
+				<td>+4 Levels</td>
 			</tr>
 		</table>
 	</header>
