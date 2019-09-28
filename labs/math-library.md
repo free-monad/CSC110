@@ -52,6 +52,7 @@
 			</p>
 			<p> In the same, or a separate program, write code that takes the diameter of a circle from a user and then calculates the circumference of the circle. </p>
 			<p> In the same, or a separate program, write code that takes as input an amount of money,an interest rate, and an amount of time the user would like to invest that money. Use this input along with the formula for continuous interest to calculate how much money they will earn on their investment. Remember that the formula for continuous interest is Amount = Principle * e^(rate * time). The principle, time, and rate will be provided by the user, the principle being the amount of money they put down, the rate being the interest rate (as either a percent or a decimal value less than 1), and the time being how long the user keeps the money invested. A of course, is the answer, the amount of money the user will make on their investment. You can find Euler's number, the constant e, in the Java Math library.</p>
+			<p> Since this program is larger and more complex than those we've done previously, please comment your code (using // and /* */) with helpful details to make sure other people reading your program understand what your intentions are </p>
 		</section>
 		<section>
 			<h2> Data </h2>
