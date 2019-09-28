@@ -4,7 +4,7 @@
 </head>
 <body>
 	<header>
-		<h1> Add a Title </h1>
+		<h1> Evil Casino</h1>
 		<table>
 			<tr>
 				<td><strong>Skill</strong></td>
