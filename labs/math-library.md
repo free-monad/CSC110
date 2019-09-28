@@ -4,7 +4,7 @@
 </head>
 <body>
 	<header>
-		<h1> Add a Title </h1>
+		<h1> MathLibrary </h1>
 		<table>
 			<tr>
 				<td><strong>Skill</strong></td>
@@ -36,6 +36,7 @@
 					<li>To calculate what day of the week it is after so many days have passed.</li>
 					<li>To calculate the circumference of a circle</li>
 					<li>To calculate how much money in interest you earn based on a given investment after a certain period of time</li>
+				</ul>
 			</p>
 		</section>
 		<section>
@@ -47,8 +48,10 @@
 		<section>
 			<h2> Methods </h2>
 			<p>
-				Step by step instructions on how to run the program. Tell where the code is, how to compile it, how to run it,  where any data resources or tooling required to run the program might be found and how to include or use it. Describe expected behavior. This section should mirror your standard README.md file for an open-source program.
+				Write a computer program that calculates what days of the week it is x days into the future. Let the user of the program decide how many days into the future will be calculated for. For this problem, you will want to use integers and the modulus operator. Recall that modulus returns an integer remainder from a division problem. To know what day of the week it is, you simply need to know the remainder of days into the future % 7. You can use this remainder along with what day of the week it is currently to figure out what day of the week it will be.
 			</p>
+			<p> In the same, or a separate program, write code that takes the diameter of a circle from a user and then calculates the circumference of the circle. </p>
+			<p> In the same, or a separate program, write code that takes as input an amount of money,an interest rate, and an amount of time the user would like to invest that money. Use this input along with the formula for continuous interest to calculate how much money they will earn on their investment. Remember that the formula for continuous interest is Amount = Principle * e^(rate * time). The principle, time, and rate will be prvided by the user, the principle being the amount of money they put down, the rate being the interest rate (as either a percent or a decimal value less than 1), and the time being how long the user keeps the money invested. A of course, is the answer, the amount of money the user will make on their investment.</p>
 		</section>
 		<section>
 			<h2> Data </h2>
