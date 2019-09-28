@@ -28,12 +28,17 @@
       <li>
         <h2>Lecture 4 </h2>
         <ul>
-          <li>IfElse</li>
-          <li>Loops</li>
-          <li>Javadocs</li>
-          <li>Markdown</li>
+          <li>math-library</li>
+          <li>LifeSimulator</li>
         </ul>
       </li>
+      <li> 
+        <h2>Lecture 5 </h2>
+        <ul>
+          <li>EvilCasino</li>
+          <li>overflow-and-underflow</li>
+          <li>UnicodeTableGenerator</li>
+        </ul>
   </ol>
 </body>
 </html>
