@@ -24,13 +24,13 @@
 		<section>
 			<h2> Objective </h2>
 			<p>
-				Add a mission statement
+				To design a slot machine program that takes away all of the user's money!
 			</p>
 		</section>
 		<section>
 			<h2> Materials </h2>
 			<p>
-				List the tools and resources you will be using.
+				Math.random(), for loops, while loops, if-else
 			</p>	
 		</section>
 		<section>
