@@ -18,6 +18,10 @@
 				<td>Using Primitive Variable Types</td>
 				<td>+4 Levels</td>
 			</tr>
+			<tr>
+				<td>Working with Files</td>
+				<td>+6 Levels</td>
+			</tr>
 		</table>
 	</header>
 	<main>
@@ -43,42 +47,31 @@
 				Each time before they play, the slot machine prompts them to place a bet. They can put up any amount of money they like but not more money than they have in the machine. After they place their bet. Two out of the three digits show up on the machine. At this point, the player has the opportunity to double or triple their bet. If they choose to double their bet, they can win twice as much money as they would have with their original bet if a jackpot comes up, if they triple their bet, they can win three times as much money as they would have with their original bet. Unfortunately for the player, if the jackpot does not come up, they will lose twice or three times as much money as they otherwise would have :(
 			</p>
 			<p>
-				When the betting is over and all three slot machine digits have been drawn, the reward or punishment is used to adjust how much money they have remaining. 
+				When the betting is over and all three slot machine digits have been drawn, the reward or punishment is used to adjust how much money they have remaining. The casino itself will have a bank book that stores how much money they have taken from the user in a file named bank-book.csv. The bank-book.csv file will start with $100,000. Anytime the user earns money, the casino removes money from its own bank account. Anytime the user loses money, the casino adds money to its own bank account. The user's own balance is of course updated accordingly as well. The amount of money the casino has persists long after the program ceases to execute because the amount of money the casino has is stored in this file. The player is not allowed to insert more the 1/3 of the amount of money in the casino bank account at the start of the game. If the player takes all of the casino's money, the program ends and the casino closes forever. If the player runs out of money, the casino asks the player to put more money in and asks them how much and then play continues.</p>
+			<p> Once all accounts are settled, the slot machine asks the player if they would like to go again. If the player says yes, the play sequence starts over. If the player says no, the casino cashes out the user's money as a certificate, thanks them for playing, says good bye and good luck, and closes.</p>
 		</section>
 		<section>
 			<h2> Data </h2>
 			<p>
-				Point to or display any data that might be generated, consumed, altered, or deleted by the program
+				The user will input how much money they would like to play with. The amount of money the casino has will be drawn from a file named bank-book.csv.
 			</p>
 		</section>
 		<section>
 			<h2> Results </h2>
 			<p>
-				Provide the output or expected example output of the program
+				The program continues indefinitely until the player decides to leave, the casino goes bankrupt or the player runs out of money.
 			</p>
 		</section>
 		<section>
 			<h2> Analysis </h2>
 			<p>
-				Talk about the meaning of the output, if it is correct and comprehensive,  what can be improved, extended, or generalized, why the output is as is
+				Calculuate the odds of the game. Who is going to win most of the time and how much more frequently will they win?
 			</p>
 		</section>
 		<section>
 			<h2> Conclusion </h2>
 			<p>
-				Add a closing summary about what was achieved or not achieved or what more can be done
-			</p>
-		</section>
-		<section>
-			<h2> Figures and Graphs </h2>
-			<p>
-				If you have any cool graphs or graphics, throw them here!
-			</p>
-		</section>
-		<section>
-			<h2> References </h2>
-			<p>
-				Provide licenses, links, and credits to any code besides your own used.
+				Congratulations! You just built a pretty comprehensive app with lots of looping and file manipulation! You should be very proud of yourself, this is a fully competent game you've built here. All it needs now is a shiny graphical interface!
 			</p>
 		</section>
 	</main>
