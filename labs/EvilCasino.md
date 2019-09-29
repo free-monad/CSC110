@@ -111,7 +111,7 @@
 		<section>
 			<h2> Data </h2>
 			<p>
-				The user will input how much money they would like to play with. The amount of money the casino has will be drawn from a file named bank-book.csv. Store the casion digits 0 through 9 as type char.
+				The user will input how much money they would like to play with. The amount of money the casino has will be drawn from a file named bank-book.csv. Store the slot machine digits as type char encoding the symbols with the unicode format \u0000, where the 0's can be any hexadecimal digit.
 			</p>
 		</section>
 		<section>
