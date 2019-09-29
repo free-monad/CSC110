@@ -40,7 +40,10 @@
 			</p>
 			<p> The slot machine works this way. There are 3 boxes on the face of the machine that can land on a number between 0 and 9. If the person gets 3 identical digits they win a jackpot, otherwise, they lose the money they bet for that round. Three 3's are worth triple the amount of money they put down. Any other 3 of a kind (1,1,1) or (7,7,7) for instance is worth double of the amount of money they put down for that round. </p> 
 			<p>
-				Each time before they play, the slot machine prompts them to place a bet. They can put up any amount of money they like but not more money than they have in the machine. After they place their bet. Two out of the three digits show up on the machine. At this point, the player has the opportunity to double or triple their bet. If they choose to double their bet, they can win twice as much money as they would have with their original bet if a jackpot comes up, if they triple their bet, they can win three times as much money as they would have with their original bet. Unfortunately, 
+				Each time before they play, the slot machine prompts them to place a bet. They can put up any amount of money they like but not more money than they have in the machine. After they place their bet. Two out of the three digits show up on the machine. At this point, the player has the opportunity to double or triple their bet. If they choose to double their bet, they can win twice as much money as they would have with their original bet if a jackpot comes up, if they triple their bet, they can win three times as much money as they would have with their original bet. Unfortunately for the player, if the jackpot does not come up, they will lose twice or three times as much money as they otherwise would have :(
+			</p>
+			<p>
+				When the betting is over and all three slot machine digits have been drawn, the reward or punishment is used to adjust how much money they have remaining. 
 		</section>
 		<section>
 			<h2> Data </h2>
