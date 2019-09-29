@@ -36,8 +36,11 @@
 		<section>
 			<h2> Methods </h2>
 			<p>
-				Step by step instructions on how to run the program. Tell where the code is, how to compile it, how to run it,  where any data resources or tooling required to run the program might be found and how to include or use it. Describe expected behavior. This section should mirror your standard README.md file for an open-source program.
+				Your first order of business will be to greet the customer in a friendly manner to earn their trust and put them in a relaxed and happy state. You can then ask for there name and ask them how much money they will be putting into the machine. From here, they are your victim and you can have your way with them.
 			</p>
+			<p> The slot machine works this way. There are 3 boxes on the face of the machine that can land on a number between 0 and 9. If the person gets 3 identical digits they win a jackpot, otherwise, they lose the money they bet for that round. Three 3's are worth triple the amount of money they put down. Any other 3 of a kind (1,1,1) or (7,7,7) for instance is worth double of the amount of money they put down for that round. </p> 
+			<p>
+				Each time before they play, the slot machine prompts them to place a bet. They can put up any amount of money they like but not more money than they have in the machine. After they place their bet. Two out of the three digits show up on the machine. At this point, the player has the opportunity to double or triple their bet. If they choose to double their bet, they can win twice as much money as they would have with their original bet if a jackpot comes up, if they triple their bet, they can win three times as much money as they would have with their original bet. Unfortunately, 
 		</section>
 		<section>
 			<h2> Data </h2>
