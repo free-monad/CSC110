@@ -52,53 +52,53 @@
 				</tr>
 				<tr>
 					<td>smiley face</td>
-					<td>&x#263a</td>
+					<td>&#x263a</td>
 					<td>\u263A</td>
 				</tr>
 				<tr>
 					<td>heart</td>
-					<td>&x#2764</td>
+					<td>&#x2764</td>
 					<td>\u2764</td>
 				</tr>
 				<tr>
-					<td></td>
-					<td></td>
-					<td></td>
+					<td>seven</td>
+					<td>&#x0037</td>
+					<td>\u0037</td>
 				</tr>
 				<tr>
-					<td></td>
-					<td></td>
-					<td></td>
+					<td>three</td>
+					<td>&#x0033</td>
+					<td>\u0033</td>
 				</tr>
 				<tr>
-					<td></td>
-					<td></td>
-					<td></td>
+					<td>frown face</td>
+					<td>&#x2639</td>
+					<td>\u2639</td>
 				</tr>
 				<tr>
-					<td></td>
-					<td></td>
-					<td></td>
+					<td>diamond</td>
+					<td>&#x2666</td>
+					<td>\u2666</td>
 				</tr>
 				<tr>
-					<td></td>
-					<td></td>
-					<td></td>
+					<td>ex</td>
+					<td>&#x2743</td>
+					<td>\u2743</td>
 				</tr>
 				<tr>
-					<td></td>
-					<td></td>
-					<td></td>
+					<td>copyright</td>
+					<td>&#x00a9</td>
+					<td>\u00A9</td>
 				</tr>
 				<tr>
-					<td></td>
-					<td></td>
-					<td></td>
+					<td>check</td>
+					<td>&#x2713</td>
+					<td>\u2713</td>
 				</tr>
 				<tr>
-					<td></td>
-					<td></td>
-					<td></td>
+					<td>dollar</td>
+					<td>&#x0024</td>
+					<td>\u0024</td>
 				</tr>
 			</table>
 			<p>
