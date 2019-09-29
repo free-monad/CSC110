@@ -43,6 +43,64 @@
 				Your first order of business will be to greet the customer in a friendly manner to earn their trust and put them in a relaxed and happy state. You can then ask for there name and ask them how much money they will be putting into the machine. From here, they are your victim and you can have your way with them.
 			</p>
 			<p> The slot machine works this way. There are 3 boxes on the face of the machine that can land on any of 10 symbols. If the person gets 3 identical symbols they win a jackpot, otherwise, they lose the money they bet for that round. Three 3's are worth triple the amount of money they put down. Any other 3 of a kind (&#x2764,&#x2764,&#x2764) or (&#x263a;,&#x263a;,&#x263a;) for instance is worth double of the amount of money they put down for that round. </p> 
+			<p>The table of symbols in the slot machine are as follows:</p>
+			<table>
+				<tr>
+					<th>Name</th>
+					<th>Symbol</th>
+					<th>Unicode</th>
+				</tr>
+				<tr>
+					<td>smiley face</td>
+					<td>&x#263a</td>
+					<td>\u263A</td>
+				</tr>
+				<tr>
+					<td>heart</td>
+					<td>&x#2764</td>
+					<td>\u2764</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			</table>
 			<p>
 				Each time before they play, the slot machine prompts them to place a bet. They can put up any amount of money they like but not more money than they have in the machine. After they place their bet. Two out of the three digits show up on the machine. At this point, the player has the opportunity to double or triple their bet. If they choose to double their bet, they can win twice as much money as they would have with their original bet if a jackpot comes up, if they triple their bet, they can win three times as much money as they would have with their original bet. Unfortunately for the player, if the jackpot does not come up, they will lose twice or three times as much money as they otherwise would have :(
 			</p>
