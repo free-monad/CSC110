@@ -11,8 +11,28 @@
 				<td><strong>Value</strong></td>
 			</tr>
 			<tr>
-				<td></td>
-				<td></td>
+				<td>Loops</td>
+				<td>+5 Levels</td>
+			</tr>
+			<tr>
+				<td>Primitive Variables</td>
+				<td>+2 Levels</td>
+			</tr>
+			<tr>
+				<td>Formatting Console Output</td>
+				<td>+2 Levels</td>
+			</tr>
+			<tr>
+				<td>Using Operators</td>
+				<td>+2 Levels</td>
+			</tr>
+			<tr>
+				<td>Logical Control Structures</td>
+				<td>+2 Levels</td>
+			</tr>
+			<tr>
+				<td>Working with Files</td>
+				<td>+2 Levels</td>
 			</tr>
 		</table>
 	</header>
@@ -20,7 +40,7 @@
 		<section>
 			<h2> Objective </h2>
 			<p>
-				Add a mission statement
+				To write a table of every unicode character and its numerical value into a text file.
 			</p>
 		</section>
 		<section>
@@ -32,43 +52,35 @@
 		<section>
 			<h2> Methods </h2>
 			<p>
-				Step by step instructions on how to run the program. Tell where the code is, how to compile it, how to run it,  where any data resources or tooling required to run the program might be found and how to include or use it. Describe expected behavior. This section should mirror your standard README.md file for an open-source program.
+				Write a computer program that prints out a table of every Unicode character paired with it's numerical value. There should be 8 unicode characters per row (8 columns) and as many rows as it will take until all are printed. Your output should be printed to a text file by your program (the output will not fit on the screen).
 			</p>
 		</section>
 		<section>
 			<h2> Data </h2>
 			<p>
-				Point to or display any data that might be generated, consumed, altered, or deleted by the program
+				Your program will produce a single unicode table as output pairing unicode characters with their numerical values
 			</p>
 		</section>
 		<section>
 			<h2> Results </h2>
 			<p>
-				Provide the output or expected example output of the program
-			</p>
-		</section>
-		<section>
-			<h2> Analysis </h2>
-			<p>
-				Talk about the meaning of the output, if it is correct and comprehensive,  what can be improved, extended, or generalized, why the output is as is
+<code>
+	<pre>
+...previous
+
+65 A	66 B	67 C	68 D	69 C	70 D	71 E	72 F	
+73 G	74 H	75 I	76 J	77 K	78 L	79 M	80 P
+81 Q	82 R	83 S	84 T	85 U	86 V	87 W	88 X
+
+continues...
+	</pre>
+</code>
 			</p>
 		</section>
 		<section>
 			<h2> Conclusion </h2>
 			<p>
-				Add a closing summary about what was achieved or not achieved or what more can be done
-			</p>
-		</section>
-		<section>
-			<h2> Figures and Graphs </h2>
-			<p>
-				If you have any cool graphs or graphics, throw them here!
-			</p>
-		</section>
-		<section>
-			<h2> References </h2>
-			<p>
-				Provide licenses, links, and credits to any code besides your own used.
+				Congratulations! You're powers are growing stronger and stronger! You now have a strong sense of the character code system, nested loops, making advanced display layouts, and writing to files!
 			</p>
 		</section>
 	</main>
