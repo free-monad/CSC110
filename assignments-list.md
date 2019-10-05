@@ -36,7 +36,6 @@
         <h2>Lecture 5 </h2>
         <ul>
           <li><a href="https://github.com/free-monad/CSC110/blob/master/labs/EvilCasino.md">EvilCasino</a></li>
-          <li><a href="https://github.com/free-monad/CSC110/blob/master/labs/overflow-and-underflow.md">overflow-and-underflow</a></li>
           <li><a href="https://github.com/free-monad/CSC110/blob/master/labs/unicode-table.md">UnicodeTableGenerator </a></li>
         </ul>
   </ol>
