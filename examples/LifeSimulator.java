@@ -63,11 +63,11 @@ public class LifeSimulator2 {
         
         if (occupationProbability <= 0.30){
             actualJob = BUSINESS_MAN;
-        } else if (occupationProbability > 0.30 || occupationProbability <= 0.60){
+        } else if (occupationProbability > 0.30 && occupationProbability <= 0.60){
             actualJob = HELPING_PROFESSION;
-        } else if (occupationProbability > 0.60 || occupationProbability <= 0.65){
+        } else if (occupationProbability > 0.60 && occupationProbability <= 0.65){
             actualJob = ENGINEER;
-        } else if (occupationProbability > 0.65 || occupationProbability <= 0.75){
+        } else if (occupationProbability > 0.65 && occupationProbability <= 0.75){
             actualJob = ARTIST;
         }
         
