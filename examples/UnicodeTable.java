@@ -3,7 +3,8 @@ public class UnicodeTable {
 
 		char c = '\u0000';
 
-		for(int i = 0; i <= 65535; i++){	
+		for(int i = 0; i <= 65536; i++){	
+			System.out.print(i + "\t");
 			System.out.println(c);
 			c++;
 		}
