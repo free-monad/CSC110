@@ -80,7 +80,7 @@ continues...
 		<section>
 			<h2> Conclusion </h2>
 			<p>
-				Congratulations! You're powers are growing stronger and stronger! You now have a strong sense of the character code system, nested loops, making advanced display layouts, and writing to files!
+				Congratulations! Your powers are growing stronger and stronger! You now have a strong sense of the character code system, nested loops, making advanced display layouts, and writing to files!
 			</p>
 		</section>
 	</main>
