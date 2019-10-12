@@ -138,8 +138,8 @@
 				java.util.Scanner;
 				java.io.File;
 				java.io.IOException;
-				public class Homoiconic throws IOException{
-					public static void main(String [] args){
+				public class Homoiconic {
+					public static void main(String [] args) throws IOException{
 						Scanner fileIn = new Scanner(new File("Homoiconic.java"));
     				while(fileIn.hasNext()){
       				System.out.println(fileIn.nextLine());
