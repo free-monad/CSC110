@@ -27,69 +27,71 @@
 			Write what output will appear in the box provided. If there is screen output and file output, be sure to place output for each in their correct boxes. Also, make sure you keep track of your variable states as you trace through the code. There are boxes provided for these also, please us them. It will be best to cross out old values as you update them rather than delete them as this will help you maintain a version history in case you need to retrace your steps.
 		</p>
 		<mc-question points="5" type="trace">
+			1.
 			<code>
+				<pre>
 				System.out.print("Hey there! ");
 				System.out.println("Won't you be \"my neighbor?\\\" \n");
 				System.out.print("Good bye!");
+				</pre>
 			</code>	
 		</mc-question>
 		<mc-question points="5" type="trace">
-			<p>The user enters in the value 'Hi' for the first input and '5' for the second input. </p>
+			<p>2. The user enters in the value 'Hi' for the first input and '5' for the second input. </p>
 			<code>
+			<pre>
 				Scanner s = new Scanner(System.in);
 				String a = s.nextLine();
 				String b = s.nextLine();
-				
 				System.out.println(a + b);
 				int n = Integer.parseInt(b) + 2;
-
 				System.out.println(b + n);
 				System.out.println(n + n);
+			</pre>
 			</code>
 		</mc-question>
 		<mc-question points="5" type="trace">
+			3.
 			<code>
+			<pre>
 				int x = 12;
 				int y = 5;
-
 				System.out.println(x / y);
 				System.out.println(x (double) / y);
-	
 				x = x + y;
 				y = x - y;
 				x = x - y;
-
 				System.out.println("x: " + x);
 				System.out.println("y: " + y);				
-
 				char c = 'A';
 				c += 1;
-
 				System.out.println(c);
-
+			</pre>
 			</code>
 		</mc-question>
 		<mc-question points="5" type="trace">
+			4.
 			<code>
+			<pre>
 				final double p = 3;
-
 				double f = Math.pow(4, p);
 				double fp = f / p;
 				int  q = (int) f / (int) p;
 				double r = f % p;
-
 				System.out.println(f);
 				System.out.println(fp);
 				System.out.println(q);
 				System.out.println(r);
+				</pre>
 			</code>
 		</mc-question>
 		<mc-question points="5" type="trace">
+			5.
 			<code>
+			<pre>
 				int t = 30;
 				int u = 40;
 				int v = 50;
-
 				if(t < v - u || t > u + v){
 					System.out.println("success!");
 				} else if (t == u){
@@ -99,46 +101,53 @@
 				}	else {
 					System.out.println("failure");
 				}
+			</pre>
 			</code>
 		</mc-question>
 		<mc-question points="5" type="trace">
+			6.
 			<code>
+			<pre>
 				String abracadabra = "abracadabra";
 				String p = "abracadabra";
-
 				while(abracadabra.equals("abracadabra")){
 					System.out.println("Waiting...");
 					abracadabra = p;
 					p += "abracadabra";
 				}
 				System.out.println("Phew! We made it out!");
+			</pre>
 			</code>
 		</mc-question>
 		<mc-question points="5" type="trace">
+			7.
 			<code>
+			<pre>
 				for(int i = 0; i < 10; i = i + 2){
 					for(int j = 10; j > i; j--){
 						System.out.print("*");
 					}
 					System.out.print("\n");
 				}	
+			</pre>
 			</code>
 		</mc-question>
 		<mc-question points="5" type="trace">
+			8.
 			<code>
+			<pre>
 				java.util.Scanner;
 				java.io.File;
 				java.io.IOException;
-
 				public class Homoiconic throws IOException{
 					public static void main(String [] args){
 						Scanner fileIn = new Scanner(new File("Homoiconic.java"));
-    
     				while(fileIn.hasNext()){
       				System.out.println(fileIn.nextLine());
     				}
 					}
 				}
+			</pre>
 			</code>
 		</mc-question>
 	</section>
@@ -146,63 +155,80 @@
 		<h2>Debugging Code (28pts)</h2>
 		<p> There are 2 mistakes in each of these code samples. Find and correct them. Each bug and its correction is worth 2pts. </p>
 		<mc-question points="4" type="debug">
+			1.
 			<code>
+			<pre>
 				System.out.print('One, Two, Three, let's jam')			
+			</pre>
 			</code>
 		</mc-question>
 		<mc-question points="4" type="debug">
+			2.
 			<code>
+			<pre>
 				int x = 3.2;
 				print(x);
+			</pre>
 			</code>
 		</mc-question>
 		<mc-question points="4" type="debug">
+			3.
 			<code>
+			<pre>
 				String j = "happy";
 				String k = "";
-
 				Scanner s == new Scanner(System.in);
 				j = s.nextLine();
-
 				if(j == k){
 					System.out.println("The strings are the same");
 				} else{
 					System.out.println("The strings are different");
 				}
+			</pre>
 			</code>
 		</mc-question>
 		<mc-question points="4" type="debug">
+		4.
 			<code>
+			<pre>
 				for(i = 0; i < 10; i++)
 					System.out.println("yes");
+			</pre>
 			</code>
 		</mc-question>
 		<mc-question points="4" type="debug">
+			5.
 			<code>
+				<pre>
 				char c = "Everything looks just fine here. ";
-
 				System.out.println(c + 'Is everything ok?');
+			</pre>
 			</code>
 		</mc-question>
 		<mc-question points="4" type="debug">
+			6.
 			<code>
+				<pre>
 				String lie = "This statement is false."
 				/* if (lie.equals("This statement is false.") {
 							System.out.println(lie);
 					} else {
 						System.out.println("This statement is true");
 					} endif
+				</pre>
 			</code>
 		</mc-question>
 		<mc-question points="4" type="debug">
+			7.
 			<code>
+				<pre>
 				boolean true = true;
-
 				while(true){
 					System.out.println("It's true!");
 					true = false;
 				}
 				System.out.println("It's no longer true!");
+				</pre>
 			</code>
 		</mc-question>
 	</section>
@@ -280,9 +306,7 @@
 		<mc-question points="10" type="program">
 			Write a program that tells a user they are awesome no matter what they type in the terminal. Never let the program end.
 		</mc-question>
-
 	</section>
-
 	<section>
 		<h2> Assignment (54pts) </h2>
 		<p> Write a program that keeps asking a user for numbers until the user types the word 'done'. Add up all the numbers and print the result for the user at the end. Make sure the program accounts for leading and trailing spaces. Also make sure the program ignores case so that 'dOne', 'DONE', or 'DONe' are all excepted as the command to end the program. If the user types something besides the word done or a number, kindly tell the user that what they typed was not a known command and that no number was added. Before closing the program, print a number of asterisks equal to the final sum. Thank the user for using the program and exit. The program should be able to add floating point numbers as well as integers.
