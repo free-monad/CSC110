@@ -2,6 +2,25 @@
 <html>
 <head>
 <title>Practice Test 1</title>
+<style>
+body{
+	display:flex;
+	flex-direction: column;
+	}
+header{
+	display:flex;
+	flex-direction: row;
+	}
+mc-question{
+	margin-top: 4vh;
+	margin-bottom:4vh;
+}
+
+section{
+	margin-top:4vh;
+	margin-bottom:4vh;
+	}
+</style>
 </head>
 <body>
 <header>
