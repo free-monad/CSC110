@@ -235,76 +235,76 @@
 	<section>
 		<h2> Concepts (56pts) </h2>
 		<mc-question points="4" type="concepts">
-			What is an algorithm?
+			<p>What is an algorithm?</p>
 		</mc-question>
 		<mc-question points="4" type="concepts">
-			What is git for?	
+			<p>What is git for?	</p>
 		</mc-question>
 		<mc-question points="4" type="concepts">
-			What is free and open-source software?
+			<p>What is free and open-source software?</p>
 		</mc-question>
 		<mc-question points="4" type="concepts">
-			What does it mean to compile a program?
+			<p>What does it mean to compile a program?</p>
 		</mc-question>
 		<mc-question points="4" type="concepts">
-			What is Java?
+			<p>What is Java?</p>
 		</mc-question>
 		<mc-question points="4" type="concepts">
-			What is a computer?
+			<p>What is a computer?</p>
 		</mc-question>
 		<mc-question points="4" type="concepts">
-			What is ASCII and Unicode?
+			<p>What is ASCII and Unicode?</p>
 		</mc-question>
 		<mc-question points="4" type="concepts">
-			What is the difference between types int and long?
+			<p>What is the difference between types int and long?</p>
 		</mc-question>
 		<mc-question points="4" type="concepts">
-			What is the difference between RAM and secondary storage (hard drives/thumb drives)?
+			<p>What is the difference between RAM and secondary storage (hard drives/thumb drives)?</p>
 		</mc-question>
 		<mc-question points="4" type="concepts">
-			What is a computer program?	
+			<p>What is a computer program?	</p>
 		</mc-question>
 		<mc-question points="4" type="concepts">
-			What is the difference between type char and type String?		
+			<p>What is the difference between type char and type String?	</p>
 		</mc-question>
 		<mc-question points="4" type="concepts">
-			When do you use a loop?
+			<p>When do you use a loop?</p>
 		</mc-question>
 		<mc-question points="4" type="concepts">
-			What are variable types?
+			<p>What are variable types?</p>
 		</mc-question>
 		<mc-question points="4" type="concepts">
-			What are the two types of comments and what are they for?
+			<p>What are the two types of comments and what are they for?</p>
 		</mc-question>
 	</section>
 	<section>
 		<h2> Writing Programs (90pts) </h2>
 		<mc-question points="10" type="program">
-			Write a program that stores two numbers each in their own variable. Print each number to the screen. Next swap the numbers so that the first variable has the number from the second variable and the second variable has the number from the first variable. Print them to the screen again after the swap.	
+			<p>Write a program that stores two numbers each in their own variable. Print each number to the screen. Next swap the numbers so that the first variable has the number from the second variable and the second variable has the number from the first variable. Print them to the screen again after the swap.	</p>
 		</mc-question>
 		<mc-question points="10" type="program">
-			Write a program that keeps asking for a user response until the user types the word 'no', 'No', or 'NO'. Make sure to account for leading or trailing spaces.
+			<p>Write a program that keeps asking for a user response until the user types the word 'no', 'No', or 'NO'. Make sure to account for leading or trailing spaces.</p>
 		</mc-question>
 		<mc-question points="10" type="program">
-			Write a program that asks what day of the week it is and then tells the user what day of the week it will be 23 days later.
+			<p>Write a program that asks what day of the week it is and then tells the user what day of the week it will be 23 days later.</p>
 		</mc-question>
 		<mc-question points="10" type="program">
-			Write a program that asks the user for input and shouts "Off with their head!" to the user if any portion of the user's input contains the word 'heart'. So for instance, if the user types in "I don't have the heart to coninue". The program will respond "off with their head!". 
+		<p>	Write a program that asks the user for input and shouts "Off with their head!" to the user if any portion of the user's input contains the word 'heart'. So for instance, if the user types in "I don't have the heart to coninue". The program will respond "off with their head!". </p>
 		</mc-question>
 		<mc-question points="10" type="program">
-			Write a program that returns a random number 1 and 10.
+			<p>Write a program that returns a random number 1 and 10.</p>
 		</mc-question>
 		<mc-question points="10" type="program">
-			Write a program that asks for a number and then tells the user if the number is greater than 50 and whether or not the number is even or odd.
+		<p>	Write a program that asks for a number and then tells the user if the number is greater than 50 and whether or not the number is even or odd.</p>
 		</mc-question>
 		<mc-question points="10" type="program">
-			Write a program that reads numbers from a file (the file will have one number per line) and adds them all together and prints out a result.
+			<p>Write a program that reads numbers from a file (the file will have one number per line) and adds them all together and prints out a result.</p>
 		</mc-question>
 		<mc-question points="10" type="program">
-			Write a program that prints out 10 asterisks to the screen using a for loop.
+			<p>Write a program that prints out 10 asterisks to the screen using a for loop.</p>
 		</mc-question>
 		<mc-question points="10" type="program">
-			Write a program that tells a user they are awesome no matter what they type in the terminal. Never let the program end.
+			<p>Write a program that tells a user they are awesome no matter what they type in the terminal. Never let the program end.</p>
 		</mc-question>
 	</section>
 	<section>
