@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Practice Test 1</title>
+<title></title>
 <link rel="stylesheet" type="text/css" media="all" href="https://github.com/free-monad/CSC110/blob/master/reviews/tests/test.css" />
 </head>
 <body>
