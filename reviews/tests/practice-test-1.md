@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title></title>
-<link rel="stylesheet" type="text/css" media="all" href="https://github.com/free-monad/CSC110/blob/master/reviews/tests/test.css" />
-</head>
+	<head>
+		<link rel="stylesheet" type="text/css" media="all" href="https://github.com/free-monad/CSC110/blob/master/reviews/tests/test.css" />
+	</head>
 <body>
 <header>
 	<div>
