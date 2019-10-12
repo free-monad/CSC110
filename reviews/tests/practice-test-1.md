@@ -56,7 +56,7 @@
 				int x = 12;
 				int y = 5;
 				System.out.println(x / y);
-				System.out.println(x (double) / y);
+				System.out.println((double) x / (double) y);
 				x = x + y;
 				y = x - y;
 				x = x - y;
