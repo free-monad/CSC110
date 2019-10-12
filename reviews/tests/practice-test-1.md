@@ -15,7 +15,6 @@ mc-question{
 	margin-top: 4vh;
 	margin-bottom:4vh;
 }
-
 section{
 	margin-top:4vh;
 	margin-bottom:4vh;
