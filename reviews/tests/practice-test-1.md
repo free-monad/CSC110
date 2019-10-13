@@ -21,7 +21,7 @@
 </header>
 <main>
 	<section>
-		<h2> Tracing Code (40pts) </h2>
+		<h2> Tracing Code (32pts) </h2>
 		<p> 
 			Write what output will appear in the box provided. If there is screen output and file output, be sure to place output for each in their correct boxes. Also, make sure you keep track of your variable states as you trace through the code. There are boxes provided for these also, please us them. It will be best to cross out old values as you update them rather than delete them as this will help you maintain a version history in case you need to retrace your steps.
 		</p>
