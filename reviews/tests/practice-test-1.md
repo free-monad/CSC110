@@ -307,7 +307,7 @@
 		</mc-question>
 	</section>
 	<section>
-		<h2> Assignment (54pts) </h2>
+		<h2> Assignment (36pts) </h2>
 		<p> Write a program that keeps asking a user for numbers until the user types the word 'done'. Add up all the numbers and print the result for the user at the end. Make sure the program accounts for leading and trailing spaces. Also make sure the program ignores case so that 'dOne', 'DONE', or 'DONe' are all excepted as the command to end the program. If the user types something besides the word done or a number, kindly tell the user that what they typed was not a known command and that no number was added. Before closing the program, print a number of asterisks equal to the final sum. Thank the user for using the program and exit. The program should be able to add floating point numbers as well as integers.
 	</section>
 </main>
