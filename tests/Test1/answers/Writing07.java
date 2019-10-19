@@ -1,3 +1,10 @@
+/*
+Write a program that prints out the following structure using a nested for loop:
+v
+vv
+vvv
+vvvv
+*/
 public class Writing07{
 	public static void main(String [] args){
 
