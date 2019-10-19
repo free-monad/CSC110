@@ -1,3 +1,7 @@
+/*
+Write a program that asks a user for a number and then prints out the corresponding ASCII
+character for that number.
+*/
 import java.util.Scanner;
 
 public class Writing09{
