@@ -1,3 +1,7 @@
+/*
+*Challenge Bonus (20pts) Write a program that takes 3 numbers from a user and prints the
+numbers out in order from greatest to least.
+*/
 import java.util.Scanner;
 
 public class Writing11{
