@@ -1,3 +1,7 @@
+/*
+Write a program that takes two numbers from a user and prints out a number of asterisks
+equal to whichever number input by the user was the smallest.
+*/
 import java.util.Scanner;
 
 public class Writing02{
