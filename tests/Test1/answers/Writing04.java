@@ -1,3 +1,6 @@
+/*
+Write a program that prints the file named jokes.json to the screen.
+*/
 import java.util.Scanner;
 import java.io.File;
 import java.io.IOException;
