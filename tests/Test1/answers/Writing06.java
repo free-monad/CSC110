@@ -1,3 +1,7 @@
+/*
+Write a program that asks for an even number. The program will say thank you if the number
+is even, but if it is not, the program threatens to throw chairs at the user.
+*/
 import java.util.Scanner;
 
 public class Writing06{
