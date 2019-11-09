@@ -4,15 +4,15 @@
 </head>
 <body>
 	<header>
-		<h1> Add a Title </h1>
+		<h1> Arithmetica</h1>
 		<table>
 			<tr>
 				<td><strong>Skill</strong></td>
-				<td></td>
+				<td>Functions</td>
 			</tr>
 			<tr>
 				<td><strong>Value</strong></td>
-				<td></td>
+				<td>+5 Levels</td>
 			</tr>
 		</table>
 	</header>
@@ -20,55 +20,32 @@
 		<section>
 			<h2> Objective </h2>
 			<p>
-				Add a mission statement
+				To write a series of functions that perform basic arithmetic operations.
 			</p>
 		</section>
 		<section>
 			<h2> Materials </h2>
 			<p>
-				List the tools and resources you will be using.
+				Netbeans or a text editor and java compiler
 			</p>	
 		</section>
 		<section>
 			<h2> Methods </h2>
 			<p>
-				Step by step instructions on how to run the program. Tell where the code is, how to compile it, how to run it,  where any data resources or tooling required to run the program might be found and how to include or use it. Describe expected behavior. This section should mirror your standard README.md file for an open-source program.
-			</p>
-		</section>
-		<section>
-			<h2> Data </h2>
-			<p>
-				Point to or display any data that might be generated, consumed, altered, or deleted by the program
-			</p>
-		</section>
-		<section>
-			<h2> Results </h2>
-			<p>
-				Provide the output or expected example output of the program
-			</p>
-		</section>
-		<section>
-			<h2> Analysis </h2>
-			<p>
-				Talk about the meaning of the output, if it is correct and comprehensive,  what can be improved, extended, or generalized, why the output is as is
-			</p>
+				Write 4 functions inside your program. 
+				<ul>
+					<li>The first function is called square. It takes a double value as an input parameter and returns a double as output. Inside the function, you should square the input parameter and return it.So for instance, if you call the function square(5) the function should return the value 25.</li> 
+					<li>The second function is called quadruple. It should take a single double as an input parameter and return a double as output. Inside the function, you should multiply the input parameter by 4 and return it.So for instance, if you call the function quadruple(5) it should return the value 20.</li>
+					<li>The third function is called divisionWithR. It takes two integers as input parameters and returns a String as output. Inside the function, you should get the results of integer division and modulus division and store them in variables defined inside the function. You should then print out these variables with the integer quotient followed by a space, the letter R, and the remainder. So for instance if you call the function divisionWithR(10, 4), it should return "2 R8"</li>
+					<li>The fourth function is called centimetersToFeetAndInches. This program should take a double as input and return a String as output. The input should be a number of centimeters and the output string should be the number of feet and inches that the input converts to. So for instance, if you call centimetersToFeetAndInches(254) the function should return "8ft 4in"</li>
+			</ul>
+			You should call each function 2 times with different input parameters each time.
+			</p>			
 		</section>
 		<section>
 			<h2> Conclusion </h2>
 			<p>
-				Add a closing summary about what was achieved or not achieved or what more can be done
-			</p>
-		</section>
-		<section>
-			<h2> Figures and Graphs </h2>
-			<p>
-				If you have any cool graphs or graphics, throw them here!
-			</p>
-		</section>
-		<section>
-			<h2> References </h2>
-			<p>
-				Provide licenses, links, and credits to any code besides your own used.
+				Congratulations! You are now skilled in building functions!
 			</p>
 		</section>
 	</main>
