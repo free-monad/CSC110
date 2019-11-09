@@ -4,15 +4,15 @@
 </head>
 <body>
 	<header>
-		<h1> Add a Title </h1>
+		<h1>Dictionary</h1>
 		<table>
 			<tr>
 				<td><strong>Skill</strong></td>
-				<td></td>
+				<td>Classes</td>
 			</tr>
 			<tr>
 				<td><strong>Value</strong></td>
-				<td></td>
+				<td>+5 Levels</td>
 			</tr>
 		</table>
 	</header>
@@ -20,55 +20,31 @@
 		<section>
 			<h2> Objective </h2>
 			<p>
-				Add a mission statement
+				Design a Word class that contains the name of the word, its definition, synonyms, and antonyms. Write a dictionary program that displays information about a word when a user types that word into the console.
 			</p>
 		</section>
 		<section>
 			<h2> Materials </h2>
 			<p>
-				List the tools and resources you will be using.
+				A Java IDE or a text editor and a Java compiler.
 			</p>	
 		</section>
 		<section>
 			<h2> Methods </h2>
 			<p>
-				Step by step instructions on how to run the program. Tell where the code is, how to compile it, how to run it,  where any data resources or tooling required to run the program might be found and how to include or use it. Describe expected behavior. This section should mirror your standard README.md file for an open-source program.
+				Your Word class should have 4 private member variables: name, definition, synonyms, and antonyms. Each member variable should be of type String. Each member variable should have a setter and a getter. Your dictionary program should contain 5 word objects and a user input loop that asks the user to type in a word. If the user types in the name of one of the 5 words, the program should display a nicely formatted dictionary output of all of the information about the word. The user input loop should continue until the user types: "I'm done"
 			</p>
 		</section>
 		<section>
 			<h2> Data </h2>
 			<p>
-				Point to or display any data that might be generated, consumed, altered, or deleted by the program
-			</p>
-		</section>
-		<section>
-			<h2> Results </h2>
-			<p>
-				Provide the output or expected example output of the program
-			</p>
-		</section>
-		<section>
-			<h2> Analysis </h2>
-			<p>
-				Talk about the meaning of the output, if it is correct and comprehensive,  what can be improved, extended, or generalized, why the output is as is
+				You will need 5 dictionary words with definitions, synonyms and antonyms
 			</p>
 		</section>
 		<section>
 			<h2> Conclusion </h2>
 			<p>
-				Add a closing summary about what was achieved or not achieved or what more can be done
-			</p>
-		</section>
-		<section>
-			<h2> Figures and Graphs </h2>
-			<p>
-				If you have any cool graphs or graphics, throw them here!
-			</p>
-		</section>
-		<section>
-			<h2> References </h2>
-			<p>
-				Provide licenses, links, and credits to any code besides your own used.
+				Congratulations! You just designed your first class and used it in a practical user program!
 			</p>
 		</section>
 	</main>
