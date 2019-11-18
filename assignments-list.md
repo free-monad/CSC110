@@ -38,6 +38,19 @@
           <li><a href="https://github.com/free-monad/CSC110/blob/master/labs/EvilCasino.md">EvilCasino</a></li>
           <li><a href="https://github.com/free-monad/CSC110/blob/master/labs/unicode-table.md">UnicodeTableGenerator </a></li>
         </ul>
+    <li>
+        <h2>Lecture 7 </h2>
+        <ul>
+          <li><a href="https://github.com/free-monad/CSC110/blob/master/labs/Arithmetica.md>Arithmetica</a></li>
+          <li><a href="https://github.com/free-monad/CSC110/blob/master/labs/Dictionary.md>Dictionary</a></li>
+        </ul>
+    </li>
+    <li>
+      <h2>Lecture 8 *Extra Credit </h2>
+      <ul>
+        <li><a href="https://github.com/free-monad/CSC110/blob/master/labs/Wenmo.md>Wenmo</a></li>
+      </ul>
+     </li>
   </ol>
 </body>
 </html>
