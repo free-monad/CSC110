@@ -1,4 +1,4 @@
-public class Trace8 {								    output
+public class Trace8 {								    
   public static void main(String [] args){
     String a = "42";
     String b = "banana";
