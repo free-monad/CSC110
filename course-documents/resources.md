@@ -4,6 +4,8 @@
 	<body>
 		<h1>Helpful Links and Resources</h1>
 			<dl>
+				<dt> <a href="https://media.pearsoncmg.com/ph/esm/ecs_gaddis_sowjava_cso_7/cw/content/Source_Code.zip"> Textbook Source Code</a></dt>
+				<dd> Java Textbook Source Code</dd>
 				<dt> <a href="https://docs.oracle.com/javase/8/docs/api/"> Javadocs API </a></dt>
 				<dd> The Official JDK Documentation </dd>
 				<dt> <a href="https://www.oracle.com/java/technologies/jdk12-downloads.html"> Download Java Standard Edition SDK </a> </dt>
