@@ -1,0 +1,51 @@
+public class ArrayTester {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        
+        char [][] memory = new char[3][4];
+        
+        memory[0][0] = 66;
+        memory[1][1] = 60;
+        
+        for(int i = 0; i < memory.length; i++){
+            for(int j = 0; j < memory[i].length; j++){
+                memory[i][j] = (char)(70 + j + i);
+            }
+        }
+        
+        for(int i = 0; i < memory.length; i++){
+            for(int j = 0; j < memory[i].length; j++){
+                System.out.print(memory[i][j]);
+            }
+            System.out.print("\n");
+        }
+        
+        
+        /*
+        int [] x = {11,22,33,44,55};
+        
+      
+        
+        for(int i = 0; i < x.length; i++){
+            System.out.println(x[i]);
+        }
+        */
+        
+        /*
+        int [] x = new int[100];
+        
+        //inputs the data into the array
+        for(int i = 0; i < x.length; i++){
+            x[i] = i * 2;
+        }
+        
+        //print out the data stored in the array
+        for(int j = 0; j < x.length; j++){
+            System.out.println(x[j]);
+        }
+        */
+    }
+}
