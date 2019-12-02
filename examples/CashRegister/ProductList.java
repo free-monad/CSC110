@@ -32,8 +32,14 @@ public class ProductList{
 
   }
 
+  public ProductList(){
+    products = new Product[MAX_PRODUCTS];
+    length = 0;
+  }
+
   public ProductList(Product [] list){
     products = list;
+    this.length = list.length;
   }
 
   public Product getProduct(int index){
