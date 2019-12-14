@@ -1,0 +1,570 @@
+abc signal 1
+abc signal 2
+abc signal 3
+abc signal 4
+abc signal 5
+abc signal 6
+abc signal 7
+abc signal 8
+abc signal 9
+abc signal 10
+cbs signal 1
+cbs signal 2
+cbs signal 3
+cbs signal 4
+cbs signal 5
+cbs signal 6
+cbs signal 7
+cbs signal 8
+cbs signal 9
+cbs signal 10
+cc signal 1
+cc signal 2
+cc signal 3
+cc signal 4
+cc signal 5
+cc signal 6
+cc signal 7
+cc signal 8
+cc signal 9
+cc signal 10
+
+
+import java.util.Scanner;
+import java.io.File;
+import java.io.IOException;
+
+public class Channel {
+  public Channel(String network) throws IOException{
+   this.name = network;
+   s = new Scanner(new File(network + ".txt"));
+  }
+
+  public String stream(){
+    String screen = GAUSSIAN_NOISE; 
+
+    if(s.hasNext()){
+      screen = s.nextLine();
+    }
+
+    return screen;
+  }
+
+  public String getName(){
+    return name;
+  }
+
+  public String toString(){
+    return getName();
+  }
+
+  public static String GAUSSIAN_NOISE = "<GAUSSIAN STATIC>.34.2.92-23-92-935.25029sjlkgset39690)(%*)(^*@#(@)(^)(@#%)TLj..c...gdkgkjp[][ppppfj4309506390346t#%*(@)@(%(@)// fjkalsf;lsksjflkslskkdfjsk...<NO BROADCAST>";
+  private Scanner s;
+  private String name;
+}
+
+
+
+import java.io.IOException;
+
+public class LivingRoom{
+  public static void main(String [] args) throws IOException{
+    Television tv = new Television();
+    Remote remote = new Remote(tv);
+
+    Channel nbc = new Channel("nbc");
+    Channel mtv = new Channel("mtv");
+    Channel abc = new Channel("abc");
+
+    tv.programChannel(1, nbc);
+    tv.programChannel(3, mtv);
+
+    remote.programButton(1, Television.TURN_ON);
+    remote.programButton(2, Television.TURN_OFF);
+    remote.programButton(3, Television.UP_ONE_CHANNEL);
+    remote.programButton(4, Television.DOWN_ONE_CHANNEL);
+    remote.programButton(5, Television.INCREASE_VOLUME);
+    remote.programButton(6, Television.DECREASE_VOLUME);
+    
+
+    String maxVolumeCommandScript = "";
+
+    for(int i = 0; i < Television.HIGHEST_VOLUME; i++){
+      maxVolumeCommandScript += (Television.INCREASE_VOLUME + " ");
+    }
+
+    remote.programButton(7, maxVolumeCommandScript);
+    System.out.println(remote.getButtonCommandScript(7));
+
+    String muteCommandScript = "";
+
+    for(int i = 0; i < Television.HIGHEST_VOLUME; i++){
+      muteCommandScript += (Television.DECREASE_VOLUME + " ");
+    }
+
+    remote.programButton(8, muteCommandScript);
+    System.out.println(remote.getButtonCommandScript(8));
+
+    System.out.println(tv);
+
+    remote.press(1);
+    remote.press(3);
+    remote.press(3);
+    remote.press(7);
+
+    System.out.println(tv); 
+    
+    System.out.println(tv.receiveBroadcast());
+    System.out.println(tv.receiveBroadcast());
+
+    remote.press(3);
+    remote.press(3);
+    remote.press(3);
+    
+    System.out.println(tv);
+
+    System.out.println(tv.receiveBroadcast());
+    System.out.println(tv.receiveBroadcast());
+
+    remote.press(3);
+    System.out.println(tv);
+    System.out.println(tv.receiveBroadcast());
+  }
+}
+
+
+
+
+
+public class Remote{
+  public Remote(Television tv){
+    this.tv = tv;
+  }
+
+  public void press(int buttonNumber){
+    switch(buttonNumber){
+      case 1:
+        tv.receiveCommand(button1);
+	break;
+      case 2:
+	tv.receiveCommand(button2);
+	break;
+      case 3:
+	tv.receiveCommand(button3);
+	break;
+      case 4:
+	tv.receiveCommand(button4);
+	break;
+      case 5:
+	tv.receiveCommand(button5);
+	break;
+      case 6:
+	tv.receiveCommand(button6);
+	break;
+      case 7:
+	tv.receiveCommand(button7);
+	break;
+      case 8:
+	tv.receiveCommand(button8);
+	break;
+    }
+  }
+
+  public void programButton(int buttonNumber, String command){
+    switch(buttonNumber){
+      case 1:
+        button1 = command;
+	break;
+      case 2:
+	button2 = command;
+	break;
+      case 3:
+	button3 = command;
+	break;
+      case 4:
+	button4 = command;
+	break;
+      case 5:
+	button5 = command;
+	break;
+      case 6:
+	button6 = command;
+	break;
+      case 7:
+	button7 = command;
+	break;
+      case 8:
+	button8 = command;
+	break;
+    }
+  }
+
+  public String getButtonCommandScript(int buttonNumber){
+      String commandScript = "";
+
+      switch(buttonNumber){
+        case 1:
+          commandScript = button1;
+          break;
+        case 2:
+          commandScript = button2;
+          break;
+        case 3:
+          commandScript = button3;
+          break;
+        case 4:
+          commandScript = button4;
+          break;
+        case 5:
+          commandScript = button5;
+          break;
+        case 6:
+          commandScript = button6;
+          break;
+        case 7:
+          commandScript = button7;
+          break;
+        case 8:
+          commandScript = button8;
+          break;	  
+      }
+
+      return commandScript;
+  }
+  
+
+  public String toString(){
+    String strRemote = "";
+
+    strRemote += ("button1: " + button1);
+    strRemote += ("button2: " + button2);
+    strRemote += ("button3: " + button3);
+    strRemote += ("button4: " + button4);
+    strRemote += ("button5: " + button5);
+    strRemote += ("button6: " + button6);
+    strRemote += ("button7: " + button7);
+    strRemote += ("button8: " + button8);
+
+    return strRemote;
+  }
+
+  private String button1;
+  private String button2;
+  private String button3;
+  private String button4;
+  private String button5;
+  private String button6;
+  private String button7;
+  private String button8;
+
+  private Television tv;
+}
+
+
+
+
+
+public class Television{
+
+  public Television(){
+    isOn = false;
+    currentChannel = 1;
+    volume = 5;
+  }
+
+  public void programChannel(int number, Channel c){
+    switch(number){
+      case 1:
+        c1 = c;
+        break;
+      case 2:
+      	c2 = c;
+      	break;
+      case 3:
+ 	c3 = c;
+        break;
+      case 4:
+	c4 = c;
+	break;
+      case 5:
+	c5 = c;
+	break;
+      default:
+	c5 = c;
+    }
+  }
+
+  private void increaseVolume(){
+   if(volume < HIGHEST_VOLUME){
+     volume++;
+   }
+  }
+
+  private void decreaseVolume(){
+    if(volume > LOWEST_VOLUME){
+      volume--;
+    }
+  }
+
+  private void upOneChannel(){
+    if(currentChannel < HIGHEST_CHANNEL){
+      currentChannel++;
+    } else {
+      currentChannel = LOWEST_CHANNEL;
+    }
+  }
+
+  private void downOneChannel(){
+    if(currentChannel > LOWEST_CHANNEL){
+      currentChannel--;
+    } else {
+      currentChannel = HIGHEST_CHANNEL;
+    }
+  }
+
+  public String receiveBroadcast(){
+    String stream = "<Tv is off>";
+
+    if(isOn){
+      if(getCurrentChannel() != null){
+        stream = getCurrentChannel().stream();
+      } else{
+        stream = Channel.GAUSSIAN_NOISE;
+      }
+    }
+
+    return stream;
+  }
+
+  private Channel getCurrentChannel(){
+
+    Channel channelToReturn = null;
+
+    switch(currentChannel){
+      case 1:
+        channelToReturn = c1;
+	break;
+      case 2:
+	channelToReturn = c2;
+	break;
+      case 3:
+	channelToReturn = c3;
+	break;
+      case 4:
+	channelToReturn = c4;
+	break;
+      case 5:
+	channelToReturn = c5;
+	break;
+    }
+
+    return channelToReturn;
+  }
+
+  private void dispatchCommand(String c){
+    switch(c){
+      case TURN_ON:
+	turnOn();
+	break;
+      case TURN_OFF:
+	turnOff();
+	break;
+      case UP_ONE_CHANNEL:
+	upOneChannel();
+	break;
+      case DOWN_ONE_CHANNEL:
+	downOneChannel();
+	break;
+      case INCREASE_VOLUME:
+	increaseVolume();
+	break;
+      case DECREASE_VOLUME:
+	decreaseVolume();
+	break;
+    }
+  }
+
+  private void turnOn(){
+    isOn = true;
+  }
+
+  private void turnOff(){
+    isOn = false;
+  }
+
+  public void receiveCommand(String c){
+    if(isOn){
+      
+      String [] splitted = c.split(" ");
+
+      for(int i = 0; i < splitted.length; i++){
+        dispatchCommand(splitted[i]);
+      }
+
+    } else{
+
+     if(c.equals("turnOn")){
+       dispatchCommand(c);
+     }
+
+    }
+  }
+
+  public int getVolume(){
+    return volume;
+  }
+
+  public int getCurrentChannelNumber(){
+    return currentChannel;
+  }
+
+  public String getCurrentNetwork(){
+    return getCurrentChannel().getName();
+  }
+  
+  public String toString(){
+    String str = "";
+
+    str += ("\nSet: " + (isOn ? "On" : "Off") + "\n");
+    str += ("Channel " + getCurrentChannelNumber() + ": " +  getCurrentChannel() + "\n"); 
+    str += ("Volume: " + getVolume() + "\n\n");
+
+    return str;
+  }
+
+  public static final String TURN_ON = "turnOn";
+  public static final String TURN_OFF = "turnOff";
+  public static final String UP_ONE_CHANNEL = "upOneChannel";
+  public static final String DOWN_ONE_CHANNEL = "downOneChannel";
+  public static final String INCREASE_VOLUME = "increaseVolume";
+  public static final String DECREASE_VOLUME = "decreaseVolume";
+
+  public static final int LOWEST_CHANNEL = 1;
+  public static final int HIGHEST_CHANNEL = 5;
+  public static final int LOWEST_VOLUME = 0;
+  public static final int HIGHEST_VOLUME = 10;
+
+  private Channel c1;
+  private Channel c2;
+  private Channel c3;
+  private Channel c4;
+  private Channel c5;
+
+  private boolean isOn;
+  private int volume;
+  private int currentChannel;
+  
+}
+
+
+
+vh1 signal 1
+vh1 signal 2
+vh1 signal 3
+vh1 signal 4
+vh1 signal 5
+vh1 signal 6
+vh1 signal 7
+vh1 signal 8
+vh1 signal 9
+vh1 signal 10
+
+
+
+
+cmt signal 1
+cmt signal 2
+cmt signal 3
+cmt signal 4
+cmt signal 5
+cmt signal 6
+cmt signal 7
+cmt signal 8
+cmt signal 9
+cmt signal 10
+
+
+cnn signal 1
+cnn signal 2
+cnn signal 3
+cnn signal 4
+cnn signal 5
+cnn signal 6
+cnn signal 7
+cnn signal 8
+cnn signal 9
+cnn signal 10
+
+
+cn signal 1
+cn signal 2
+cn signal 3
+cn signal 4
+cn signal 5
+cn signal 6
+cn signal 7
+cn signal 8
+cn signal 9
+cn signal 10
+
+
+hbo signal 1
+hbo signal 2
+hbo signal 3
+hbo signal 4
+hbo signal 5
+hbo signal 6
+hbo signal 7
+hbo signal 8
+hbo signal 9
+hbo signal 10
+
+
+tbs signal 1
+tbs signal 2
+tbs signal 3
+tbs signal 4
+tbs signal 5
+tbs signal 6
+tbs signal 7
+tbs signal 8
+tbs signal 9
+tbs signal 10
+
+
+mtv signal 1
+mtv signal 2
+mtv signal 3
+mtv signal 4
+mtv signal 5
+mtv signal 6
+mtv signal 7
+mtv signal 8
+mtv signal 9
+mtv signal 10
+
+
+nbc signal 1
+nbc signal 2
+nbc signal 3
+nbc signal 4
+nbc signal 5
+nbc signal 6
+nbc signal 7
+nbc signal 8
+nbc signal 9
+nbc signal 10
+
+
+qvc signal 1
+qvc signal 2
+qvc signal 3
+qvc signal 4
+qvc signal 5
+qvc signal 6
+qvc signal 7
+qvc signal 8
+qvc signal 9
+qvc signal 10
+
+
